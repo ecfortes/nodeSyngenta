@@ -54,16 +54,16 @@
         "statechanged_reason": "",
         "programada": false,
         "justifica": false,
-        "tParadaAtual": 503.00656666666663
+        "tParadaAtual": 503.5094
     },
     "sumProg_NProgr": [
         {
             "soma_programada": 0,
-            "soma_nao_programada": 503.00656666666663
+            "soma_nao_programada": 503.5094
         }
     ],
     "memo_turno": 2,
-    "tempoTranscorrido": 503.0122333333333,
+    "tempoTranscorrido": 503.5149166666667,
     "calculoOEE": {
         "machine_event": {
             "timestamp(1i)": "2024",
@@ -71,7 +71,7 @@
             "timestamp(3i)": "16",
             "timestamp(4i)": "15",
             "timestamp(5i)": "23",
-            "timestamp(6i)": "1",
+            "timestamp(6i)": "31",
             "event_type_id": 6,
             "payload": {
                 "statusMachine": "Parada",
@@ -88,20 +88,20 @@
                 "diCounterReject_r1": 0,
                 "diCounterReject_r2": 0,
                 "iActualRecipe": 3,
-                "tempoTranscorrido": 503.01,
+                "tempoTranscorrido": 503.51,
                 "percDisp": 0,
                 "teste": {
-                    "tProducao": 0.02241666666668607,
-                    "tempoTranscorrido": 503.0122333333333,
+                    "tProducao": 0.0224333333333675,
+                    "tempoTranscorrido": 503.5149166666667,
                     "tProg": 0,
-                    "tNProg": 502.9898166666666
+                    "tNProg": 503.4924833333333
                 },
                 "percEfic": 0,
                 "percQual": 0,
                 "percOEE": 0,
                 "turno": 2,
                 "tempoParadaProgramada": 0,
-                "tempoParadaNaoProgramada": 502.99,
+                "tempoParadaNaoProgramada": 503.49,
                 "dimetaProduzidos": 100000,
                 "rmetaPerf": 95,
                 "rmetaDisp": 90,
@@ -169,7 +169,7 @@
                 }
             }
         },
-        5.833333333333333
+        6.333333333333333
     ],
     "sumProg_NProgr_parcial": [
         {
@@ -180,13 +180,13 @@
     "temposOEE_parcial": {
         "omac": {
             "2": {
-                "2": 8.303371133333334,
+                "2": 9.303371133333334,
                 "9": 5.6915754
             }
         },
         "somas": {
             "totalProductive": 0,
-            "totalNonProductive": 13.994946533333334
+            "totalNonProductive": 14.994946533333334
         }
     },
     "ignora_registro_linha": 20,

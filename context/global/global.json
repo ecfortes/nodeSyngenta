@@ -33,7 +33,7 @@
         "4": 0,
         "5": 0,
         "6": 0,
-        "7": 21685,
+        "7": 21693,
         "8": 0
     },
     "turnos_times": [
@@ -67,8 +67,8 @@
     ],
     "turno_1": {
         "turno": 2,
-        "tempoTranscorrido": 503.0289833333334,
-        "now": "2024-12-16T18:23:01.739Z"
+        "tempoTranscorrido": 503.53181666666666,
+        "now": "2024-12-16T18:23:31.909Z"
     },
     "turno_anterior_1": 2,
     "paradaplcenchedora": {
@@ -81,10 +81,10 @@
         "statechanged_reason": "Parada pelo Operador",
         "programada": false,
         "justifica": false,
-        "tParadaAtual": 0.92055
+        "tParadaAtual": 1.4233833333333334
     },
     "plcenvolvedora": {
-        "aux_id_falha": 84,
+        "aux_id_falha": 0,
         "iActualRecipe": 2,
         "strRecipeName": "Bombona Nacional 3 Camadas",
         "rNominalSpeed": 50,
@@ -102,12 +102,12 @@
         "ZZZZZZZZZZudtZIA14": 0,
         "xResetReject_r2": false,
         "mode": 2,
-        "state": 5,
-        "statechanged_id": "126",
-        "statechanged_reason": "Parada Segurança",
+        "state": 6,
+        "statechanged_id": "999",
+        "statechanged_reason": "Parada pelo Operador",
         "ZZZZZZZZZZudtZIA20": 0,
         "programada": false,
-        "lastalm": "Abertura porta envolvedora autorizada",
+        "lastalm": "",
         "blocked": false
     },
     "paradaplcenvolvedora": {
@@ -115,12 +115,12 @@
         "hora": 1734373313442,
         "state": 5,
         "mode": 2,
-        "active": true,
+        "active": false,
         "statechanged_id": "126",
         "statechanged_reason": "Parada Segurança",
         "programada": false,
         "justifica": false,
-        "tParadaAtual": 1.13825
+        "tParadaAtual": 1.5907666666666667
     },
     "plcrobopal": {
         "aux_id_falha": 0,
@@ -185,7 +185,7 @@
         "rActualSpeed": 10,
         "diCounterReject_r1": 0,
         "diCounterReject_r2": 0,
-        "diProductionCounter": 21685,
+        "diProductionCounter": 21693,
         "starved": true,
         "blocked": false,
         "statechanged_id": "999",
@@ -204,7 +204,7 @@
         "aplicadora": false
     },
     "plcaplicadora": {
-        "lifebit": true,
+        "lifebit": false,
         "mode": 2,
         "state": 2,
         "statechanged_id": 0,
@@ -232,7 +232,7 @@
         "statechanged_reason": "",
         "programada": false,
         "justifica": false,
-        "tParadaAtual": 503.00656666666663
+        "tParadaAtual": 503.5094
     },
     "plcemf": {
         "xResetCounter": false,
@@ -316,7 +316,7 @@
         "statechanged_reason": "Parada pelo Operador",
         "programada": false,
         "justifica": false,
-        "tParadaAtual": 503.00808333333333
+        "tParadaAtual": 503.51090000000005
     },
     "paradaplccfe": {
         "aux_id_falha": 0,
@@ -328,7 +328,7 @@
         "statechanged_reason": "Parada pelo Operador",
         "programada": false,
         "justifica": false,
-        "tParadaAtual": 503.00663333333335
+        "tParadaAtual": 503.5094666666667
     },
     "paradaplcgfx": {
         "aux_id_falha": 0,
@@ -340,7 +340,7 @@
         "statechanged_reason": "Parada pelo Operador",
         "programada": false,
         "justifica": false,
-        "tParadaAtual": 503.0065833333333
+        "tParadaAtual": 503.5094166666667
     },
     "paradaplcrotuladorafrascos": {
         "aux_id_falha": 0,
@@ -364,7 +364,7 @@
         "statechanged_reason": "Parada pelo Operador",
         "programada": false,
         "justifica": false,
-        "tParadaAtual": 0.9038166666666666,
+        "tParadaAtual": 1.40665,
         "machine_id": 1,
         "machine_name": "enchedora"
     },

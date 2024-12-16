@@ -64,7 +64,7 @@
                 }
             }
         },
-        4.55
+        5.05
     ],
     "sm_atual": {
         "state": 6,
@@ -85,7 +85,7 @@
             "soma_nao_programada": 82.62
         }
     ],
-    "tempoTranscorrido": 503.0122333333333,
+    "tempoTranscorrido": 503.5149166666667,
     "calculoOEE": {
         "machine_event": {
             "timestamp(1i)": "2024",
@@ -93,7 +93,7 @@
             "timestamp(3i)": "16",
             "timestamp(4i)": "15",
             "timestamp(5i)": "23",
-            "timestamp(6i)": "1",
+            "timestamp(6i)": "31",
             "event_type_id": 6,
             "payload": {
                 "statusMachine": "Rodando",
@@ -110,11 +110,11 @@
                 "diCounterReject_r1": 0,
                 "diCounterReject_r2": 0,
                 "iActualRecipe": 1,
-                "tempoTranscorrido": 503.01,
-                "percDisp": 83.57,
+                "tempoTranscorrido": 503.51,
+                "percDisp": 83.59,
                 "teste": {
-                    "tProducao": 420.3922333333333,
-                    "tempoTranscorrido": 503.0122333333333,
+                    "tProducao": 420.8949166666667,
+                    "tempoTranscorrido": 503.5149166666667,
                     "tProg": 0,
                     "tNProg": 82.62
                 },
@@ -142,11 +142,11 @@
             "2": {
                 "2": 17.55976985,
                 "5": 13.717605383333334,
-                "6": 83.27875206666667
+                "6": 84.27875206666667
             }
         },
         "somas": {
-            "totalProductive": 83.27875206666667,
+            "totalProductive": 84.27875206666667,
             "totalNonProductive": 31.27737523333333
         }
     },
