@@ -64,7 +64,7 @@
                 }
             }
         },
-        2.5166666666666666
+        3.0166666666666666
     ],
     "sm_atual": {
         "state": 6,
@@ -119,7 +119,7 @@
         ]
     },
     "memo_turno": 2,
-    "tempoTranscorrido": 506.0260333333334,
+    "tempoTranscorrido": 506.5279,
     "sumProg_NProgr_parcial": [
         {
             "soma_programada": 0,
@@ -131,11 +131,11 @@
             "2": {
                 "2": 7.971034683333333,
                 "5": 46.561266333333336,
-                "6": 119.59717658333334
+                "6": 120.59717658333334
             }
         },
         "somas": {
-            "totalProductive": 119.59717658333334,
+            "totalProductive": 120.59717658333334,
             "totalNonProductive": 54.53230101666667
         }
     },
@@ -146,7 +146,7 @@
             "timestamp(3i)": "16",
             "timestamp(4i)": "15",
             "timestamp(5i)": "26",
-            "timestamp(6i)": "1",
+            "timestamp(6i)": "31",
             "event_type_id": 6,
             "payload": {
                 "statusMachine": "Rodando",
@@ -163,17 +163,17 @@
                 "diCounterReject_r1": 0,
                 "diCounterReject_r2": 0,
                 "iActualRecipe": 2,
-                "tempoTranscorrido": 506.03,
-                "percDisp": 74.72,
+                "tempoTranscorrido": 506.53,
+                "percDisp": 74.74,
                 "teste": {
-                    "tProducao": 378.09603333333337,
-                    "tempoTranscorrido": 506.0260333333334,
+                    "tProducao": 378.5979,
+                    "tempoTranscorrido": 506.5279,
                     "tProg": 0,
                     "tNProg": 127.93
                 },
-                "percEfic": 38.09,
+                "percEfic": 38.04,
                 "percQual": 100,
-                "percOEE": 28.46,
+                "percOEE": 28.43,
                 "turno": 2,
                 "tempoParadaProgramada": 0,
                 "tempoParadaNaoProgramada": 127.93,

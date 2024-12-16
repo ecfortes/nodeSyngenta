@@ -54,10 +54,10 @@
         "statechanged_reason": "Parada pelo Operador",
         "programada": false,
         "justifica": false,
-        "tParadaAtual": 506.00425
+        "tParadaAtual": 506.50645000000003
     },
     "memo_turno": 2,
-    "tempoTranscorrido": 506.0260333333334,
+    "tempoTranscorrido": 506.5279,
     "calculoOEE": {
         "machine_event": {
             "timestamp(1i)": "2024",
@@ -65,7 +65,7 @@
             "timestamp(3i)": "16",
             "timestamp(4i)": "15",
             "timestamp(5i)": "26",
-            "timestamp(6i)": "1",
+            "timestamp(6i)": "31",
             "event_type_id": 6,
             "payload": {
                 "statusMachine": "Parada",
@@ -82,20 +82,20 @@
                 "diCounterReject_r1": 0,
                 "diCounterReject_r2": 0,
                 "iActualRecipe": 1,
-                "tempoTranscorrido": 506.03,
+                "tempoTranscorrido": 506.53,
                 "percDisp": 0.01,
                 "teste": {
-                    "tProducao": 0.03860000000003083,
-                    "tempoTranscorrido": 506.0260333333334,
+                    "tProducao": 0.03811666666666724,
+                    "tempoTranscorrido": 506.5279,
                     "tProg": 0,
-                    "tNProg": 505.98743333333334
+                    "tNProg": 506.4897833333333
                 },
                 "percEfic": null,
                 "percQual": 0,
                 "percOEE": null,
                 "turno": 2,
                 "tempoParadaProgramada": 0,
-                "tempoParadaNaoProgramada": 505.99,
+                "tempoParadaNaoProgramada": 506.49,
                 "dimetaProduzidos": 100000,
                 "rmetaPerf": 95,
                 "rmetaDisp": 90,
@@ -163,7 +163,7 @@
                 }
             }
         },
-        506.0260333333334
+        506.5279
     ],
     "temposOEE_parcial": {
         "omac": {},
@@ -194,7 +194,7 @@
     "sumProg_NProgr": [
         {
             "soma_programada": 0,
-            "soma_nao_programada": 506.00425
+            "soma_nao_programada": 506.50645000000003
         }
     ],
     "sumProg_NProgr_parcial": [

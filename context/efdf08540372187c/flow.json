@@ -33,7 +33,7 @@
         "statechanged_reason": "Parada pelo Operador",
         "programada": false,
         "justifica": false,
-        "tParadaAtual": 3.9181833333333334
+        "tParadaAtual": 4.42035
     },
     "calculoOEE": {
         "machine_event": {
@@ -42,7 +42,7 @@
             "timestamp(3i)": "16",
             "timestamp(4i)": "15",
             "timestamp(5i)": "26",
-            "timestamp(6i)": "1",
+            "timestamp(6i)": "31",
             "event_type_id": 6,
             "payload": {
                 "statusMachine": "Parada",
@@ -50,8 +50,8 @@
                 "mode": 2,
                 "state": 11,
                 "rNominalSpeed": 1200,
-                "rSetSpeed": 1080,
-                "rActualSpeed": 1140,
+                "rSetSpeed": 720,
+                "rActualSpeed": 0,
                 "strRecipeName": "MATCH 20L",
                 "strBottle": "",
                 "strCap": "",
@@ -59,19 +59,19 @@
                 "diCounterReject_r1": 123,
                 "diCounterReject_r2": 0,
                 "iActualRecipe": 13,
-                "tempoTranscorrido": 506.03,
+                "tempoTranscorrido": 506.53,
                 "teste": {
-                    "tProducao": 132.89468333333338,
+                    "tProducao": 132.89419999999996,
                     "tProg": 0,
-                    "tNProg": 373.13135
+                    "tNProg": 373.63370000000003
                 },
-                "percDisp": 26.26,
+                "percDisp": 26.24,
                 "percEfic": 93.5,
                 "percQual": 95.05,
-                "percOEE": 23.34,
+                "percOEE": 23.32,
                 "turno": 2,
                 "tempoParadaProgramada": 0,
-                "tempoParadaNaoProgramada": 373.13,
+                "tempoParadaNaoProgramada": 373.63,
                 "dimetaProduzidos": 100000,
                 "rmetaPerf": 95,
                 "rmetaDisp": 90,
@@ -147,7 +147,7 @@
         }
     },
     "memo_turno": 2,
-    "tempoTranscorrido": 506.0260333333334,
+    "tempoTranscorrido": 506.5279,
     "sm_anterior_iot": {
         "state": 11,
         "mode": 2
@@ -204,7 +204,7 @@
                 }
             }
         },
-        3.9
+        4.4
     ],
     "temposOEE_parcial": {
         "omac": {
@@ -212,12 +212,12 @@
                 "2": 22.155654033333334,
                 "5": 1.8778092833333333,
                 "6": 64.97622095,
-                "11": 37.36699121666666
+                "11": 38.36699121666666
             }
         },
         "somas": {
             "totalProductive": 64.97622095,
-            "totalNonProductive": 61.40045453333333
+            "totalNonProductive": 62.40045453333333
         }
     },
     "stopreasons": {
@@ -266,7 +266,7 @@
     "sumProg_NProgr": [
         {
             "soma_programada": 0,
-            "soma_nao_programada": 373.14818333333335
+            "soma_nao_programada": 373.65035
         }
     ],
     "ignora_registro_linha": 0,

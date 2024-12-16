@@ -64,7 +64,7 @@
                 }
             }
         },
-        7.55
+        8.05
     ],
     "sm_atual": {
         "state": 6,
@@ -82,10 +82,10 @@
     "sumProg_NProgr_parcial": [
         {
             "soma_programada": 0,
-            "soma_nao_programada": 82.64
+            "soma_nao_programada": 82.66
         }
     ],
-    "tempoTranscorrido": 506.0260333333334,
+    "tempoTranscorrido": 506.5279,
     "calculoOEE": {
         "machine_event": {
             "timestamp(1i)": "2024",
@@ -93,7 +93,7 @@
             "timestamp(3i)": "16",
             "timestamp(4i)": "15",
             "timestamp(5i)": "26",
-            "timestamp(6i)": "1",
+            "timestamp(6i)": "31",
             "event_type_id": 6,
             "payload": {
                 "statusMachine": "Rodando",
@@ -110,20 +110,20 @@
                 "diCounterReject_r1": 0,
                 "diCounterReject_r2": 0,
                 "iActualRecipe": 1,
-                "tempoTranscorrido": 506.03,
-                "percDisp": 83.67,
+                "tempoTranscorrido": 506.53,
+                "percDisp": 83.68,
                 "teste": {
-                    "tProducao": 423.3860333333334,
-                    "tempoTranscorrido": 506.0260333333334,
+                    "tProducao": 423.86789999999996,
+                    "tempoTranscorrido": 506.5279,
                     "tProg": 0,
-                    "tNProg": 82.64
+                    "tNProg": 82.66
                 },
-                "percEfic": 2.13,
+                "percEfic": 2.12,
                 "percQual": 100,
-                "percOEE": 1.78,
+                "percOEE": 1.77,
                 "turno": 2,
                 "tempoParadaProgramada": 0,
-                "tempoParadaNaoProgramada": 82.64,
+                "tempoParadaNaoProgramada": 82.66,
                 "dimetaProduzidos": 100000,
                 "rmetaPerf": 95,
                 "rmetaDisp": 90,
@@ -142,15 +142,15 @@
             "2": {
                 "2": 17.55976985,
                 "5": 13.717605383333334,
-                "6": 86.27875206666667
+                "6": 87.27875206666667
             }
         },
         "somas": {
-            "totalProductive": 86.27875206666667,
+            "totalProductive": 87.27875206666667,
             "totalNonProductive": 31.27737523333333
         }
     },
-    "ignora_registro_maquina": 9,
+    "ignora_registro_maquina": 0,
     "parada": {
         "aux_id_falha": 0,
         "hora": 1734373549532,
@@ -165,7 +165,7 @@
     "sumProg_NProgr": [
         {
             "soma_programada": 0,
-            "soma_nao_programada": 82.64
+            "soma_nao_programada": 82.66
         }
     ],
     "ignora_registro_linha": 20,
