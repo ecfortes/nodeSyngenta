@@ -63,15 +63,15 @@
         }
     ],
     "memo_turno": 2,
-    "tempoTranscorrido": 506.5279,
+    "tempoTranscorrido": 509.03753333333333,
     "calculoOEE": {
         "machine_event": {
             "timestamp(1i)": "2024",
             "timestamp(2i)": "12",
             "timestamp(3i)": "16",
             "timestamp(4i)": "15",
-            "timestamp(5i)": "26",
-            "timestamp(6i)": "31",
+            "timestamp(5i)": "29",
+            "timestamp(6i)": "2",
             "event_type_id": 6,
             "payload": {
                 "statusMachine": "Rodando",
@@ -84,15 +84,15 @@
                 "strRecipeName": "20 Litros",
                 "strBottle": "undefined",
                 "strCap": "undefined",
-                "diProductionCounter": 21742,
+                "diProductionCounter": 21753,
                 "diCounterReject_r1": 0,
                 "diCounterReject_r2": 0,
                 "iActualRecipe": 2,
-                "tempoTranscorrido": 506.53,
-                "percDisp": 79.37,
+                "tempoTranscorrido": 509.04,
+                "percDisp": 79.47,
                 "teste": {
-                    "tProducao": 402.0079,
-                    "tempoTranscorrido": 506.5279,
+                    "tProducao": 404.51753333333335,
+                    "tempoTranscorrido": 509.03753333333333,
                     "tProg": 0,
                     "tNProg": 104.52
                 },
@@ -169,19 +169,19 @@
                 }
             }
         },
-        8.133333333333333
+        10.65
     ],
     "temposOEE_parcial": {
         "omac": {
             "2": {
                 "2": 37.85908445,
                 "5": 12.31040415,
-                "6": 46.15325176666666,
+                "6": 48.16991843333333,
                 "11": 0.48503395
             }
         },
         "somas": {
-            "totalProductive": 46.15325176666666,
+            "totalProductive": 48.16991843333333,
             "totalNonProductive": 50.654522549999996
         }
     },

@@ -54,24 +54,24 @@
         "statechanged_reason": "Parada pelo Operador",
         "programada": false,
         "justifica": false,
-        "tParadaAtual": 506.50640000000004
+        "tParadaAtual": 509.0169666666667
     },
     "sumProg_NProgr": [
         {
             "soma_programada": 0,
-            "soma_nao_programada": 506.50640000000004
+            "soma_nao_programada": 509.0169666666667
         }
     ],
     "memo_turno": 2,
-    "tempoTranscorrido": 506.5279,
+    "tempoTranscorrido": 509.03753333333333,
     "calculoOEE": {
         "machine_event": {
             "timestamp(1i)": "2024",
             "timestamp(2i)": "12",
             "timestamp(3i)": "16",
             "timestamp(4i)": "15",
-            "timestamp(5i)": "26",
-            "timestamp(6i)": "31",
+            "timestamp(5i)": "29",
+            "timestamp(6i)": "2",
             "event_type_id": 6,
             "payload": {
                 "statusMachine": "Parada",
@@ -88,20 +88,20 @@
                 "diCounterReject_r1": 0,
                 "diCounterReject_r2": 0,
                 "iActualRecipe": 1,
-                "tempoTranscorrido": 506.53,
+                "tempoTranscorrido": 509.04,
                 "percDisp": 0.01,
                 "teste": {
-                    "tProducao": 0.03816666666665469,
-                    "tempoTranscorrido": 506.5279,
+                    "tProducao": 0.03728333333333467,
+                    "tempoTranscorrido": 509.03753333333333,
                     "tProg": 0,
-                    "tNProg": 506.48973333333333
+                    "tNProg": 509.00025
                 },
                 "percEfic": null,
                 "percQual": 0,
                 "percOEE": null,
                 "turno": 2,
                 "tempoParadaProgramada": 0,
-                "tempoParadaNaoProgramada": 506.49,
+                "tempoParadaNaoProgramada": 509,
                 "dimetaProduzidos": 100000,
                 "rmetaPerf": 95,
                 "rmetaDisp": 90,
@@ -169,7 +169,7 @@
                 }
             }
         },
-        506.5279
+        509.03753333333333
     ],
     "temposOEE_parcial": {
         "omac": {},

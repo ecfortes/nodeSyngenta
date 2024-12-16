@@ -33,7 +33,7 @@
         "statechanged_reason": "Parada pelo Operador",
         "programada": false,
         "justifica": false,
-        "tParadaAtual": 4.42035
+        "tParadaAtual": 6.930916666666667
     },
     "calculoOEE": {
         "machine_event": {
@@ -41,8 +41,8 @@
             "timestamp(2i)": "12",
             "timestamp(3i)": "16",
             "timestamp(4i)": "15",
-            "timestamp(5i)": "26",
-            "timestamp(6i)": "31",
+            "timestamp(5i)": "29",
+            "timestamp(6i)": "2",
             "event_type_id": 6,
             "payload": {
                 "statusMachine": "Parada",
@@ -59,19 +59,19 @@
                 "diCounterReject_r1": 123,
                 "diCounterReject_r2": 0,
                 "iActualRecipe": 13,
-                "tempoTranscorrido": 506.53,
+                "tempoTranscorrido": 509.04,
                 "teste": {
-                    "tProducao": 132.89419999999996,
+                    "tProducao": 132.89331666666664,
                     "tProg": 0,
-                    "tNProg": 373.63370000000003
+                    "tNProg": 376.1442166666667
                 },
-                "percDisp": 26.24,
+                "percDisp": 26.11,
                 "percEfic": 93.5,
                 "percQual": 95.05,
-                "percOEE": 23.32,
+                "percOEE": 23.2,
                 "turno": 2,
                 "tempoParadaProgramada": 0,
-                "tempoParadaNaoProgramada": 373.63,
+                "tempoParadaNaoProgramada": 376.14,
                 "dimetaProduzidos": 100000,
                 "rmetaPerf": 95,
                 "rmetaDisp": 90,
@@ -147,7 +147,7 @@
         }
     },
     "memo_turno": 2,
-    "tempoTranscorrido": 506.5279,
+    "tempoTranscorrido": 509.03753333333333,
     "sm_anterior_iot": {
         "state": 11,
         "mode": 2
@@ -204,7 +204,7 @@
                 }
             }
         },
-        4.4
+        6.916666666666667
     ],
     "temposOEE_parcial": {
         "omac": {
@@ -212,12 +212,12 @@
                 "2": 22.155654033333334,
                 "5": 1.8778092833333333,
                 "6": 64.97622095,
-                "11": 38.36699121666666
+                "11": 40.38365788333333
             }
         },
         "somas": {
             "totalProductive": 64.97622095,
-            "totalNonProductive": 62.40045453333333
+            "totalNonProductive": 64.4171212
         }
     },
     "stopreasons": {
@@ -266,7 +266,7 @@
     "sumProg_NProgr": [
         {
             "soma_programada": 0,
-            "soma_nao_programada": 373.65035
+            "soma_nao_programada": 376.1609166666667
         }
     ],
     "ignora_registro_linha": 0,

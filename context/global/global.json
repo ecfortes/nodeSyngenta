@@ -33,7 +33,7 @@
         "4": 0,
         "5": 0,
         "6": 0,
-        "7": 21742,
+        "7": 21753,
         "8": 0
     },
     "turnos_times": [
@@ -67,8 +67,8 @@
     ],
     "turno_1": {
         "turno": 2,
-        "tempoTranscorrido": 506.5279,
-        "now": "2024-12-16T18:26:31.674Z"
+        "tempoTranscorrido": 509.03753333333333,
+        "now": "2024-12-16T18:29:02.252Z"
     },
     "turno_anterior_1": 2,
     "paradaplcenchedora": {
@@ -81,10 +81,10 @@
         "statechanged_reason": "Parada pelo Operador",
         "programada": false,
         "justifica": false,
-        "tParadaAtual": 4.42035
+        "tParadaAtual": 6.930916666666667
     },
     "plcenvolvedora": {
-        "aux_id_falha": 0,
+        "aux_id_falha": 113,
         "iActualRecipe": 2,
         "strRecipeName": "Bombona Nacional 3 Camadas",
         "rNominalSpeed": 50,
@@ -102,28 +102,28 @@
         "ZZZZZZZZZZudtZIA14": 0,
         "xResetReject_r2": false,
         "mode": 2,
-        "state": 6,
-        "statechanged_id": "999",
-        "statechanged_reason": "Parada pelo Operador",
+        "state": 5,
+        "statechanged_id": "888",
+        "statechanged_reason": "Aviso",
         "ZZZZZZZZZZudtZIA20": 0,
         "programada": false,
-        "lastalm": "",
+        "lastalm": "Abertura porta pallet cheio autorizada",
         "blocked": false
     },
     "paradaplcenvolvedora": {
-        "aux_id_falha": 84,
-        "hora": 1734373313442,
+        "aux_id_falha": 113,
+        "hora": 1734373659069,
         "state": 5,
         "mode": 2,
-        "active": false,
-        "statechanged_id": "126",
-        "statechanged_reason": "Parada Segurança",
+        "active": true,
+        "statechanged_id": "888",
+        "statechanged_reason": "Aviso",
         "programada": false,
         "justifica": false,
-        "tParadaAtual": 1.5907666666666667
+        "tParadaAtual": 1.3881666666666668
     },
     "plcrobopal": {
-        "aux_id_falha": 0,
+        "aux_id_falha": 120,
         "iActualRecipe": 1,
         "strRecipeName": "Bombonas 20L Nacional",
         "rNominalSpeed": 1200,
@@ -141,24 +141,25 @@
         "ZZZZZZZZZZudtZIA14": 0,
         "xResetReject_r2": false,
         "mode": 2,
-        "state": 6,
-        "statechanged_id": "999",
-        "statechanged_reason": "Parada pelo Operador",
+        "state": 5,
+        "statechanged_id": "134",
+        "statechanged_reason": "Falha Processo   Entrada Caixas/Frascos",
         "ZZZZZZZZZZudtZIA20": 0,
         "programada": false,
-        "lastalm": "",
-        "blocked": false
+        "lastalm": "Alarme desajuste / acumula  o caixas sensor mesa viradora / formação",
+        "blocked": true
     },
     "paradaplcrobopal": {
-        "aux_id_falha": 0,
-        "hora": 1734373549532,
+        "aux_id_falha": 120,
+        "hora": 1734373713242,
         "state": 5,
         "mode": 2,
-        "active": false,
-        "statechanged_id": "999",
-        "statechanged_reason": "Parada pelo Operador",
+        "active": true,
+        "statechanged_id": "134",
+        "statechanged_reason": "Falha Processo   Entrada Caixas/Frascos",
         "programada": false,
-        "justifica": false
+        "justifica": false,
+        "tParadaAtual": 0.4853
     },
     "plcvarpe": {
         "mode": 2,
@@ -185,7 +186,7 @@
         "rActualSpeed": 10,
         "diCounterReject_r1": 0,
         "diCounterReject_r2": 0,
-        "diProductionCounter": 21742,
+        "diProductionCounter": 21753,
         "starved": true,
         "blocked": false,
         "statechanged_id": "999",
@@ -204,9 +205,9 @@
         "aplicadora": false
     },
     "plcaplicadora": {
-        "lifebit": true,
+        "lifebit": false,
         "mode": 2,
-        "state": 2,
+        "state": 9,
         "statechanged_id": 0,
         "statechanged_reason": "",
         "rNominal": 0,
@@ -232,7 +233,7 @@
         "statechanged_reason": "",
         "programada": false,
         "justifica": false,
-        "tParadaAtual": 506.50638333333336
+        "tParadaAtual": 509.01695
     },
     "plcemf": {
         "xResetCounter": false,
@@ -316,7 +317,7 @@
         "statechanged_reason": "Parada pelo Operador",
         "programada": false,
         "justifica": false,
-        "tParadaAtual": 506.5078833333334
+        "tParadaAtual": 509.01845000000003
     },
     "paradaplccfe": {
         "aux_id_falha": 0,
@@ -328,7 +329,7 @@
         "statechanged_reason": "Parada pelo Operador",
         "programada": false,
         "justifica": false,
-        "tParadaAtual": 506.50645000000003
+        "tParadaAtual": 509.017
     },
     "paradaplcgfx": {
         "aux_id_falha": 0,
@@ -340,7 +341,7 @@
         "statechanged_reason": "Parada pelo Operador",
         "programada": false,
         "justifica": false,
-        "tParadaAtual": 506.50640000000004
+        "tParadaAtual": 509.0169666666667
     },
     "paradaplcrotuladorafrascos": {
         "aux_id_falha": 0,
@@ -364,7 +365,7 @@
         "statechanged_reason": "Parada pelo Operador",
         "programada": false,
         "justifica": false,
-        "tParadaAtual": 4.4036333333333335,
+        "tParadaAtual": 6.914199999999999,
         "machine_id": 1,
         "machine_name": "enchedora"
     },
