@@ -1,0 +1,256 @@
+{
+    "config": {
+        "machine_name": "gfx",
+        "factory": 1,
+        "machine_id": 6,
+        "token_machine": "Bearer bb5d7f6d8dc51b08ee61429fd1760ef8b64a3a35",
+        "token_line": "Bearer 00bc757a398cc98d299fd6fc2119929c48647db9",
+        "url": "http://127.0.0.1:3003",
+        "url_machine": "http://127.0.0.1:3003/machine_events",
+        "url_line": "http://127.0.0.1:3003/production_line_events",
+        "send": true
+    },
+    "stopreasons": {
+        "id": 6,
+        "name": "GFX - Armadora",
+        "stopReasons": [
+            [
+                "501",
+                "Manutencao Corretiva",
+                false
+            ],
+            [
+                "502",
+                "Manutencao Preditiva",
+                false
+            ],
+            [
+                "503",
+                "Falta de Produto",
+                false
+            ],
+            [
+                "504",
+                "Ajuste Maquina",
+                false
+            ]
+        ]
+    },
+    "sm_atual": {
+        "state": 2,
+        "mode": 1
+    },
+    "sm_anterior": {
+        "state": 2,
+        "mode": 1
+    },
+    "parada": {
+        "aux_id_falha": 0,
+        "hora": 1734343201343,
+        "state": 2,
+        "mode": 1,
+        "active": true,
+        "statechanged_id": "999",
+        "statechanged_reason": "Parada pelo Operador",
+        "programada": false,
+        "justifica": false,
+        "tParadaAtual": 98.37236666666666
+    },
+    "sumProg_NProgr": [
+        {
+            "soma_programada": 0,
+            "soma_nao_programada": 98.37236666666666
+        }
+    ],
+    "memo_turno": 2,
+    "tempoTranscorrido": 98.37811666666667,
+    "calculoOEE": {
+        "machine_event": {
+            "timestamp(1i)": "2024",
+            "timestamp(2i)": "12",
+            "timestamp(3i)": "16",
+            "timestamp(4i)": "8",
+            "timestamp(5i)": "38",
+            "timestamp(6i)": "23",
+            "event_type_id": 6,
+            "payload": {
+                "statusMachine": "Parada",
+                "statusConexao": true,
+                "mode": 1,
+                "state": 2,
+                "rNominalSpeed": null,
+                "rSetSpeed": null,
+                "rActualSpeed": null,
+                "strRecipeName": "5 LITROS",
+                "strBottle": "undefined",
+                "strCap": "undefined",
+                "diProductionCounter": 0,
+                "diCounterReject_r1": 0,
+                "diCounterReject_r2": 0,
+                "iActualRecipe": 1,
+                "tempoTranscorrido": 98.38,
+                "percDisp": 0.02,
+                "teste": {
+                    "tProducao": 0.02241666666667186,
+                    "tempoTranscorrido": 98.37811666666667,
+                    "tProg": 0,
+                    "tNProg": 98.3557
+                },
+                "percEfic": null,
+                "percQual": 0,
+                "percOEE": null,
+                "turno": 2,
+                "tempoParadaProgramada": 0,
+                "tempoParadaNaoProgramada": 98.36,
+                "dimetaProduzidos": 100000,
+                "rmetaPerf": 95,
+                "rmetaDisp": 90,
+                "rmetaQual": 99,
+                "rmetaOEE": 90,
+                "equip": "gfx"
+            }
+        }
+    },
+    "sm_anterior_iot": {
+        "state": 2,
+        "mode": 1
+    },
+    "ignora_registro_maquina": 0,
+    "lastState": [
+        {
+            "id": 12782,
+            "timestamp": "2024-12-15T18:51:04.516Z",
+            "id_machine": 6,
+            "payload": {
+                "machine_event": {
+                    "timestamp(1i)": "2024",
+                    "timestamp(2i)": "12",
+                    "timestamp(3i)": "15",
+                    "timestamp(4i)": "15",
+                    "timestamp(5i)": "51",
+                    "timestamp(6i)": "4",
+                    "event_type_id": 6,
+                    "payload": {
+                        "statusMachine": "Parada",
+                        "statusConexao": true,
+                        "mode": 1,
+                        "state": 2,
+                        "rNominalSpeed": null,
+                        "rSetSpeed": null,
+                        "rActualSpeed": null,
+                        "strRecipeName": "5 LITROS",
+                        "strBottle": "undefined",
+                        "strCap": "undefined",
+                        "diProductionCounter": 0,
+                        "diCounterReject_r1": 0,
+                        "diCounterReject_r2": 0,
+                        "iActualRecipe": 1,
+                        "tempoTranscorrido": 531.06,
+                        "percDisp": 0.01,
+                        "teste": {
+                            "tProducao": 0.03251666666665187,
+                            "tempoTranscorrido": 531.0579666666666,
+                            "tProg": 0,
+                            "tNProg": 531.02545
+                        },
+                        "percEfic": null,
+                        "percQual": 0,
+                        "percOEE": null,
+                        "turno": 2,
+                        "tempoParadaProgramada": 0,
+                        "tempoParadaNaoProgramada": 531.03,
+                        "dimetaProduzidos": 100000,
+                        "rmetaPerf": 95,
+                        "rmetaDisp": 90,
+                        "rmetaQual": 99,
+                        "rmetaOEE": 90,
+                        "equip": "gfx"
+                    }
+                }
+            }
+        },
+        98.37811666666667
+    ],
+    "temposOEE_parcial": {
+        "omac": {},
+        "somas": {
+            "totalProductive": 0,
+            "totalNonProductive": 0
+        }
+    },
+    "ignora_registro_linha": 20,
+    "paradasSoma": {
+        "Prog": 0,
+        "Nprog": 0
+    },
+    "paradaOEE": {
+        "aux_id_falha": 0,
+        "InicioParada": 1734318601700,
+        "FimParada": 1734343201343,
+        "tParada": 409.99,
+        "ID": 999,
+        "Reason": "Parada pelo Operador",
+        "ModeReason": 1,
+        "StateReason": 2,
+        "Programada": false,
+        "turno_atual": 2,
+        "equip": "gfx",
+        "machine_id": 6
+    },
+    "sumProg_NProgr_parcial": [
+        {
+            "soma_programada": 0,
+            "soma_nao_programada": 0
+        }
+    ],
+    "fimTurnoOEE": {
+        "machine_event": {
+            "timestamp(1i)": "2024",
+            "timestamp(2i)": "12",
+            "timestamp(3i)": "16",
+            "timestamp(4i)": "7",
+            "timestamp(5i)": "0",
+            "timestamp(6i)": "1",
+            "event_type_id": 3,
+            "payload": {
+                "statusMachine": "Parada",
+                "statusConexao": true,
+                "mode": 1,
+                "state": 2,
+                "rNominalSpeed": null,
+                "rSetSpeed": null,
+                "rActualSpeed": null,
+                "strRecipeName": "5 LITROS",
+                "strBottle": "undefined",
+                "strCap": "undefined",
+                "diProductionCounter": 0,
+                "diCounterReject_r1": 0,
+                "diCounterReject_r2": 0,
+                "iActualRecipe": 1,
+                "tempoTranscorrido": 409.99,
+                "percDisp": 0,
+                "teste": {
+                    "tProducao": 0.011683333333337487,
+                    "tempoTranscorrido": 409.9890666666667,
+                    "tProg": 0,
+                    "tNProg": 409.97738333333336
+                },
+                "percEfic": null,
+                "percQual": 0,
+                "percOEE": null,
+                "turno": 2,
+                "tempoParadaProgramada": 0,
+                "tempoParadaNaoProgramada": 409.98,
+                "dimetaProduzidos": 100000,
+                "rmetaPerf": 95,
+                "rmetaDisp": 90,
+                "rmetaQual": 99,
+                "rmetaOEE": 90,
+                "equip": "gfx",
+                "statusMachineId": 2
+            }
+        }
+    },
+    "cmdResetAtivo": true,
+    "alm_list": "0,,Parada pelo Operador,999,0,2\r\n1,0AL1 BOTÃO DE EMERGÊNCIA PRESSIONADO 0S1,Parada Segurança,126,0,11\r\n2,0AL2 PORTA ABERTA 0MCR1,Parada Segurança,126,0,11\r\n3,1AL1 DISJUNTOR MOTOR DESARMADO Q,Falha Elétrica,108,0,11\r\n4,1AL2 BAIXA PRESSÃO 1P1,Falha Pneumática,118,0,11\r\n5,3AL1 FALHA NO SENSOR DE CIL. EXTRATOR AV. 3B1,Falha Elétrica,108,0,11\r\n6,3AL2 FALHA NA EXTRAÇÃO 3VAC,Falha Pneumática,118,0,11\r\n7,3AL3 FALHA DE VÁCUO 3VAC,Falha Pneumática,118,0,11\r\n8,3AL4 CAIXA PRESA NO TRACIONADOR 3B3_3B4,Falha Processo,120,0,11\r\n9,4AL1 FITA MENOR 4B1,Falha Processo,120,0,11\r\n10,4AL2 FITA MAIOR 4B1,Falha Processo,120,0,11\r\n11,4AL3 FITA NÃO APLICADA 4B1,Falha Processo,120,0,11\r\n12,3AL5 FALHA NO SENSOR DE CIL. EXTRATOR  REC. 3B1,Falha Processo,120,0,11\r\n13,2AL1 ABASTECER MAGAZINE DE CAIXAS 2B1,Falha Processo,120,0,11\r\n14,0AL4 PORTA ABERTA 0MCR2,Parada Segurança,126,0,11,Falha Processo,120,0,11\r\n15,1AL3 TROCAR ROLO DE FITA ADESIVA 4B2_5B1,Falha Processo,120,0,11\r\n16,3AL6 SENSOR DE CIL. DOB. DE ABAS EXT.AV. 3B2,Falha Elétrica,108,0,11\r\n17,4AL4 PORTA ABERTA NO ROLO SUPERIOR 4MCR1,Parada Segurança,126,0,11\r\n18,5AL1 PORTA ABERTA NO ROLO INFERIOR 5MCR1,Parada Segurança,126,0,11\r\n19,0AL5 PORTA ABERTA 0MCR3,Parada Segurança,126,0,11\r\n20,5AL2 FALHA NA TROCA DA FITA  ,Falha Processo,120,0,11\r\n21,0AL6 CHAVE ATERRAMENTO DESLIGADA 0CH1,Falha Elétrica,108,0,11\r\n22,0AL7 RELE DE SEGURANÇA DA LINHA DESARMADO ,Parada Segurança,126,0,11\r\n23,0AL8 PORTA ABERTA 0MCR4,Parada Segurança,126,0,11\r\n24,2AL2 FALHA NA CATRACA DO MAGAZINE 2B2,Falha Processo,120,0,11\r\n300,Acumulo na Saida,Acumulo Saída,100,0,5\r\n\r\n"
+}

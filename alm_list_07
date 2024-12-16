@@ -1,0 +1,18 @@
+0,,Parada pelo Operador,999,0,2
+1,Rele de segurança,Parada Segurança,126,0,11
+2,Porta 1,Parada Segurança,126,0,11
+3,Porta 2,Parada Segurança,126,0,11
+4,Porta 3,Parada Segurança,126,0,11
+5,Porta 4,Parada Segurança,126,0,11
+6,Porta 5,Parada Segurança,126,0,11
+7,Porta 6,Parada Segurança,126,0,11
+8,Porta 7,Parada Segurança,126,0,11
+9,Porta 8,Parada Segurança,126,0,11
+10,vazio,,,,
+11,Pressostato,Falha Pneumática,118,0,11
+12,Erros consecutivos,Falha Processo,120,0,11
+13,Acumulo de Rejeitos,Falha Processo,120,0,11
+14,Confirmacao de Rejeitos,Falha Processo,120,0,11
+15,Troca SX1 SX2,Falha Processo,120,0,11
+16,Troca DX1 DX2,Falha Processo,120,0,11
+300,Acumulo na Saida,Acumulo Saída,100,0,5

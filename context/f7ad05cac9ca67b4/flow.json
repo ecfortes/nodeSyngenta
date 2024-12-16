@@ -1,0 +1,259 @@
+{
+    "config": {
+        "machine_name": "rotuladorafrascos",
+        "factory": 1,
+        "machine_id": 7,
+        "token_machine": "Bearer dcf73690aabe2b7e82b575da91cf6f28a08c04d5",
+        "token_line": "Bearer 00bc757a398cc98d299fd6fc2119929c48647db9",
+        "url": "http://127.0.0.1:3003",
+        "url_machine": "http://127.0.0.1:3003/machine_events",
+        "url_line": "http://127.0.0.1:3003/production_line_events",
+        "send": true
+    },
+    "stopreasons": {
+        "id": 7,
+        "name": "Rotuladora de Frascos",
+        "stopReasons": [
+            [
+                "501",
+                "Manutencao Corretiva",
+                false
+            ],
+            [
+                "502",
+                "Manutencao Preditiva",
+                false
+            ],
+            [
+                "503",
+                "Falta de Produto",
+                false
+            ],
+            [
+                "504",
+                "Ajuste Maquina",
+                false
+            ]
+        ]
+    },
+    "sm_atual": {
+        "state": 6,
+        "mode": 2
+    },
+    "sm_anterior": {
+        "state": 6,
+        "mode": 2
+    },
+    "parada": {
+        "aux_id_falha": 100,
+        "hora": 1734348816679,
+        "state": 5,
+        "mode": 2,
+        "active": false,
+        "programada": false,
+        "justifica": false,
+        "tParadaAtual": 0.016716666666666664
+    },
+    "sumProg_NProgr": [
+        {
+            "soma_programada": 0,
+            "soma_nao_programada": 33.52
+        }
+    ],
+    "memo_turno": 2,
+    "tempoTranscorrido": 98.37811666666667,
+    "calculoOEE": {
+        "machine_event": {
+            "timestamp(1i)": "2024",
+            "timestamp(2i)": "12",
+            "timestamp(3i)": "16",
+            "timestamp(4i)": "8",
+            "timestamp(5i)": "38",
+            "timestamp(6i)": "23",
+            "event_type_id": 6,
+            "payload": {
+                "statusMachine": "Rodando",
+                "statusConexao": true,
+                "mode": 2,
+                "state": 6,
+                "rNominalSpeed": 1200,
+                "rSetSpeed": null,
+                "rActualSpeed": 10,
+                "strRecipeName": "20 Litros",
+                "strBottle": "undefined",
+                "strCap": "undefined",
+                "diProductionCounter": 19487,
+                "diCounterReject_r1": 0,
+                "diCounterReject_r2": 0,
+                "iActualRecipe": 2,
+                "tempoTranscorrido": 98.38,
+                "percDisp": 65.93,
+                "teste": {
+                    "tProducao": 64.85811666666666,
+                    "tempoTranscorrido": 98.37811666666667,
+                    "tProg": 0,
+                    "tNProg": 33.52
+                },
+                "percEfic": 100,
+                "percQual": 100,
+                "percOEE": 100,
+                "turno": 2,
+                "tempoParadaProgramada": 0,
+                "tempoParadaNaoProgramada": 33.52,
+                "dimetaProduzidos": 100000,
+                "rmetaPerf": 95,
+                "rmetaDisp": 90,
+                "rmetaQual": 99,
+                "rmetaOEE": 90,
+                "equip": "rotuladorafrascos"
+            }
+        }
+    },
+    "sm_anterior_iot": {
+        "state": 6,
+        "mode": 2
+    },
+    "ignora_registro_maquina": 0,
+    "lastState": [
+        {
+            "id": 13617,
+            "timestamp": "2024-12-16T11:33:39.701Z",
+            "id_machine": 7,
+            "payload": {
+                "machine_event": {
+                    "timestamp(1i)": "2024",
+                    "timestamp(2i)": "12",
+                    "timestamp(3i)": "16",
+                    "timestamp(4i)": "8",
+                    "timestamp(5i)": "33",
+                    "timestamp(6i)": "39",
+                    "event_type_id": 6,
+                    "payload": {
+                        "statusMachine": "Rodando",
+                        "statusConexao": true,
+                        "mode": 2,
+                        "state": 6,
+                        "rNominalSpeed": 1200,
+                        "rSetSpeed": null,
+                        "rActualSpeed": 10,
+                        "strRecipeName": "20 Litros",
+                        "strBottle": "undefined",
+                        "strCap": "undefined",
+                        "diProductionCounter": 19436,
+                        "diCounterReject_r1": 0,
+                        "diCounterReject_r2": 0,
+                        "iActualRecipe": 2,
+                        "tempoTranscorrido": 93.64,
+                        "percDisp": 64.24,
+                        "teste": {
+                            "tProducao": 60.15476666666665,
+                            "tempoTranscorrido": 93.64476666666665,
+                            "tProg": 0,
+                            "tNProg": 33.49
+                        },
+                        "percEfic": 100,
+                        "percQual": 100,
+                        "percOEE": 100,
+                        "turno": 2,
+                        "tempoParadaProgramada": 0,
+                        "tempoParadaNaoProgramada": 33.49,
+                        "dimetaProduzidos": 100000,
+                        "rmetaPerf": 95,
+                        "rmetaDisp": 90,
+                        "rmetaQual": 99,
+                        "rmetaOEE": 90,
+                        "equip": "rotuladorafrascos"
+                    }
+                }
+            }
+        },
+        4.733333333333333
+    ],
+    "temposOEE_parcial": {
+        "omac": {
+            "2": {
+                "2": 32.01940861666667,
+                "5": 0.6653573666666667,
+                "6": 8.7680759
+            }
+        },
+        "somas": {
+            "totalProductive": 8.7680759,
+            "totalNonProductive": 32.684765983333335
+        }
+    },
+    "ignora_registro_linha": 20,
+    "paradasSoma": {
+        "Prog": 0,
+        "Nprog": 33.524883333333335
+    },
+    "paradaOEE": {
+        "aux_id_falha": 100,
+        "InicioParada": 1734348816679,
+        "FimParada": 1734348818685,
+        "tParada": 0.03,
+        "ID": 0,
+        "ModeReason": 2,
+        "StateReason": 5,
+        "Programada": false,
+        "turno_atual": 2,
+        "equip": "rotuladorafrascos",
+        "machine_id": 7
+    },
+    "sumProg_NProgr_parcial": [
+        {
+            "soma_programada": 0,
+            "soma_nao_programada": 33.52
+        }
+    ],
+    "fimTurnoOEE": {
+        "machine_event": {
+            "timestamp(1i)": "2024",
+            "timestamp(2i)": "12",
+            "timestamp(3i)": "16",
+            "timestamp(4i)": "7",
+            "timestamp(5i)": "0",
+            "timestamp(6i)": "1",
+            "event_type_id": 3,
+            "payload": {
+                "statusMachine": "Rodando",
+                "statusConexao": true,
+                "mode": 2,
+                "state": 6,
+                "rNominalSpeed": 1200,
+                "rSetSpeed": null,
+                "rActualSpeed": 10,
+                "strRecipeName": "20 Litros",
+                "strBottle": "undefined",
+                "strCap": "undefined",
+                "diProductionCounter": 19277,
+                "diCounterReject_r1": 0,
+                "diCounterReject_r2": 2,
+                "iActualRecipe": 2,
+                "tempoTranscorrido": 409.99,
+                "percDisp": 49.72,
+                "teste": {
+                    "tProducao": 203.8290666666667,
+                    "tempoTranscorrido": 409.9890666666667,
+                    "tProg": 0,
+                    "tNProg": 206.16
+                },
+                "percEfic": 100,
+                "percQual": 99.99,
+                "percOEE": 100,
+                "turno": 2,
+                "tempoParadaProgramada": 0,
+                "tempoParadaNaoProgramada": 206.16,
+                "dimetaProduzidos": 100000,
+                "rmetaPerf": 95,
+                "rmetaDisp": 90,
+                "rmetaQual": 99,
+                "rmetaOEE": 90,
+                "equip": "rotuladorafrascos",
+                "statusMachineId": 1
+            }
+        }
+    },
+    "cmdResetAtivo": true,
+    "alm_list": "0,,Parada pelo Operador,999,0,2\r\n1,Rele de segurança,Parada Segurança,126,0,11\r\n2,Porta 1,Parada Segurança,126,0,11\r\n3,Porta 2,Parada Segurança,126,0,11\r\n4,Porta 3,Parada Segurança,126,0,11\r\n5,Porta 4,Parada Segurança,126,0,11\r\n6,Porta 5,Parada Segurança,126,0,11\r\n7,Porta 6,Parada Segurança,126,0,11\r\n8,Porta 7,Parada Segurança,126,0,11\r\n9,Porta 8,Parada Segurança,126,0,11\r\n10,vazio,,,,\r\n11,Pressostato,Falha Pneumática,118,0,11\r\n12,Erros consecutivos,Falha Processo,120,0,11\r\n13,Acumulo de Rejeitos,Falha Processo,120,0,11\r\n14,Confirmacao de Rejeitos,Falha Processo,120,0,11\r\n15,Troca SX1 SX2,Falha Processo,120,0,11\r\n16,Troca DX1 DX2,Falha Processo,120,0,11\r\n300,Acumulo na Saida,Acumulo Saída,100,0,5\r\n"
+}

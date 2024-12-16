@@ -1,0 +1,16 @@
+{
+    "name": "node-red-project",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "line-reader": "^0.4.0",
+        "node-red-contrib-cip-st-ethernet-ip": "~2.0.2",
+        "node-red-contrib-modbustcp": "~1.2.3",
+        "node-red-contrib-pccc": "~1.0.2",
+        "node-red-contrib-postgresql": "~0.14.2",
+        "node-red-dashboard": "~3.6.5",
+        "node-red-node-ui-table": "~0.4.4",
+        "plcindustry": "~2.1.1"
+    }
+}

@@ -1,0 +1,116 @@
+0,,Parada pelo Operador,999,0,2
+1, Emergência painel acionada, Parada Segurança,126,0,11
+2, Porta acesso maquina aberta ,Parada Segurança,126,0,11
+3, Barreira saída TDP corrente acionada, Parada Segurança,126,0,11
+4, Barreira saída envolvedora acionada, Parada Segurança,126,0,11
+5, Barreira saída pallet cheios acionada, Parada Segurança,126,0,11
+6, Baixa pressão de ar comprimido, Falha Pneumatica,118,0,11
+7, Falha na transferência de pallet, Falha Processo,120,0,11
+8, Falha inversor TDP8 da m quina, Falha Elétrica Inversores,111,0,11
+9, Falha inversor TDP9 da m quina, Falha Elétrica Inversores,111,0,11
+10, Falha inversor TDP10 Rolo, Falha Elétrica Inversores,111,0,11
+11, Falha inversor TDP10 Corrente, Falha Elétrica Inversores,111,0,11
+12, Falha inversor TDP11 saída, Falha Elétrica Inversores,111,0,11
+13, Falta dados envolver pallet, Falha Processo,120,0,11
+14, Falha inversor basculante TDP10,Falha Elétrica Inversores,111,0,11
+15, Produto recebido não é igual a receita, Falha Processo,120,0,11
+16, Código não encontrada na receita envolvedora, Falha Processo,120,0,11
+17, Falta capa na Garra, Falha Processo,120,0,11
+18, Porta aberta bobina capa pallet, Parada Segurança,126,0,11
+19, Falha inversor translação capa, Falha Elétrica Inversores,111,0,11
+20, Falha inversor corte capa, Falha Elétrica Inversores,111,0,11
+21, Falta capa no pallet, Falha Processo,120,0,11
+22, Falha Inversor Eleva  o Capa Pallet, Falha Elétrica Inversores,111,0,11
+23, Porta saída de pallet aberta, Parada Segurança,126,0,11
+24, Emergência QCS11 acionada, Parada Segurança,126,0,11
+25, Alarme Controle de Tens o, Falha Elétrica,108,0,11
+26, Barreira entrada envolvedora acionada, Parada Segurança,126,0,11
+27, Emergência Pressionada na Linha - Transporte, Parada Segurança,126,0,11
+28, Falha inversor basculante máquina, Falha Elétrica Inversores,111,0,11
+29,,,,0,11
+30, Falha inversor giro orbital, Falha Elétrica Inversores,111,0,11
+31,,,,0,11
+32, Falha inversor apalpador, Falha Elétrica Inversores,111,0,11
+33,,,,0,11
+34, Falha inversor dosador, Falha Elétrica Inversores,111,0,11
+35,,,,0,11
+36, Falha inversor estirador, Falha Elétrica Inversores,111,0,11
+37,,,,0,11
+38, Falha inversor elevação cabeçote, Falha Elétrica Inversores,111,0,11
+39,,,,0,11
+40, Falta filme no cabeçote, Falta Insumos - Filme,128,0,11
+41, Cabeçote aberto, Falha Processo,120,0,11
+42, Bypass acionado, Falha Operacional,117,0,11
+43, Emergência QCS8 acionada, Parada Segurança,126,0,11
+44, Scanner Segurança Sacnner 1, Parada Segurança,126,0,11
+45, Scanner Segurança Sacnner 2, Parada Segurança,126,0,11
+46,,,,0,11
+47,,,,0,11
+48,,,,0,11
+49,,,,0,11
+50,,,,0,11
+51,,,,0,11
+52,,,,0,11
+53,,,,0,11
+54,,,,0,11
+55,,,,0,11
+56,,,,0,11
+57,,,,0,11
+58,,,,0,11
+59,,,,0,11
+60,,,,0,11
+61,,,,0,11
+62,,,,0,11
+63,,,,0,11
+64,,,,0,11
+65,,,,0,11
+66,,,,0,11
+67,,,,0,11
+68,,,,0,11
+69,,,,0,11
+71, Referenciar envolvedora, Falha Processo,120,0,11
+72, Acumulo na saída, Acumulo Saída,100,0,11
+73, Garra filme deve estar fechada para inicío envolvi, Falha Processo,120,0,11
+74, Basculante TDP m quina deve estar baixo, Falha Processo,120,0,11
+75, Falha comunica  o com paletizadora, Falha Elétrica,108,0,11
+76, Braço corte filme deve estar recuado, Falha Processo,120,0,11
+77, Bypass acionado, Falha Processo,120,0,11
+78, Posicionar cabeçote no limite mínimo, Falha Processo,120,0,11
+79, Levar orbital para posição inicial, Falha Processo,120,0,11
+80, Carregar receita na máquina, Falha Processo,120,0,11
+81, Sistema apalpador deve estar sobre o pallet, Falha Processo,120,0,11
+82, Solicita abertura porta envolvedora, Parada Segurança,126,0,11
+83, Pist o alinhador pallet deve estar aberto, Falha Processo,120,0,11
+84, Abertura porta envolvedora autorizada, Parada Segurança,126,0,11
+85, Pallet sem c digo na entrada da m quina, Falha Processo,120,0,11
+86, Falha sensor bra o corte filme, Falha Elétrica,108,0,11
+87, Falha sensor garra filme, Falha Elétrica,108,0,11
+88, Falha sensor apalpador, Falha Elétrica,108,0,11
+89, Falha sensor basculante máquina, Falha Elétrica,108,0,11
+90, Falha sensor pistão braço selagem, Falha Elétrica,108,0,11
+91, Solicita abertura de porta capa pallet, Parada Segurança,126,0,11
+92, Falha sensor TDP entrada, Falha Elétrica,108,0,11
+93, Falha sensor TDP maquina, Falha Elétrica,108,0,11
+94, Falha sensor TDP saída, Falha Elétrica,108,0,11
+95, Pistão braço selagem deve estar recuado, Falha Processo,120,0,11
+96, Falta bobina no capa pallet, Falha Processo,120,0,11
+97, Elevacão capa em rota de colisão com corte, Falha Processo,120,0,11
+98, Translação em rota de colisão com pallet, Falha Processo,120,0,11
+99, Translação em rota de colisão com apalpador, Falha Processo,120,0,11
+100, Posicionar orbital na posicão inicial, Falha Processo,120,0,11
+101, Abertura porta capa pallet autorizada, Parada Segurança,126,0,11
+102, Limite de velocidade excedido giro orbital, Falha Processo,120,0,11
+103, Limite de velocidade excedido eleva  o cabeçote, Falha Processo,120,0,11
+104, Limite de velocidade excedido rolo dosador, Falha Processo,120,0,11
+105, Limite de velocidade excedido rolo estirador, Falha Processo,120,0,11
+106, Temperatura baixa selador, Falha Temperatura Baixa,129,0,11
+107, Temperatura alta selador, Falha Temperatura Alta,130,0,11
+108, Falha sensor selador, Falha Elétrica,108,0,11
+109, Pallet refugado,Aviso,888,0,11
+110, Pallet incompleto,Aviso,888,0,11
+111, ,,,0,11
+112, Solicita abertura porta pallet cheio, Aviso,888,0,11
+113, Abertura porta pallet cheio autorizada, Aviso,888,0,11
+114, Referenciar capa pallet,Aviso,888,0,11
+115, REALIZAR RESET BARREIRA saída PALLET CHEIO QCS11, Aviso,888,0,11
+9999,,Parada pelo Operador,999,0,2

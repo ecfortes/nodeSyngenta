@@ -1,0 +1,189 @@
+0,Descricao Alarme,Parada pelo Operador,999,0
+1,Descricao Alarme,Parada Segurança,126,0
+2,Descricao Alarme,Parada Segurança,126,0
+3,Descricao Alarme,Falha Bandeja CIP,106,0
+4,Descricao Alarme,Falha Entrada de Frasco,113,0
+5,Descricao Alarme,Falha Entrada de Frasco,113,0
+6,Descricao Alarme,Falha Elétrica,108,0
+7,Descricao Alarme,Falha Operacional,117,0
+8,Descricao Alarme,Falha Pneumática,118,0
+9,Descricao Alarme,Falha Elétrica Inversores,111,0
+10,Descricao Alarme,Falha Elétrica Encoders,110,0
+11,Descricao Alarme,Falha Elétrica Inversores,111,0
+12,Descricao Alarme,Falha Elétrica Inversores,111,0
+13,Descricao Alarme,Falha Elétrica Inversores,111,0
+14,Descricao AlarmeDescricao Alarme,Falha Elétrica Inversores,111,0
+15,Descricao AlarmeDescricao Alarme,Falha Lubrifica  o,114,0
+16,Descricao Alarme,Falha Elétrica Inversores,111,0
+17,Descricao Alarme,Falha Elétrica Inversores,111,0
+18,Descricao Alarme,Falha Elétrica Inversores,111,0
+19,Descricao Alarme,Parada Segurança,126,0
+20,Descricao Alarme,Parada Segurança,126,0
+21,Descricao Alarme,Falha Elétrica Inversores,111,0
+22,Descricao Alarme,Falha Elétrica Inversores,111,0
+23,Descricao Alarme,Falha Célula de Carga,107,0
+24,Descricao Alarme,Falha Célula de Carga,107,0
+25,Descricao Alarme,Falha Célula de Carga,107,0
+26,Descricao Alarme,Falha Célula de Carga,107,0
+27,Descricao Alarme,Falha Célula de Carga,107,0
+28,Descricao Alarme,Falha Célula de Carga,107,0
+29,Descricao Alarme,Falha Célula de Carga,107,0
+30,Descricao Alarme,Falha Célula de Carga,107,0
+31,Descricao Alarme,Falha Célula de Carga,107,0
+32,Descricao Alarme,Falha Célula de Carga,107,0
+33,Descricao Alarme,Falha Célula de Carga,107,0
+34,Descricao Alarme,Falha Célula de Carga,107,0
+35,Descricao Alarme,Falha Célula de Carga,107,0
+36,Descricao Alarme,Falha Célula de Carga,107,0
+37,Descricao Alarme,Falha Célula de Carga,107,0
+38,Descricao Alarme,Falha Célula de Carga,107,0
+39,Descricao Alarme,Falha Célula de Carga,107,0
+40,Descricao Alarme,Falha Célula de Carga,107,0
+41,Descricao Alarme,Falha Célula de Carga,107,0
+42,Descricao Alarme,Falha Célula de Carga,107,0
+43,Descricao Alarme,Falha N2,115,0
+44,Descricao Alarme,Falha N2,115,0
+45,Descricao Alarme,Falha Elétrica Inversores,111,0
+46,Descricao Alarme,Falha Célula de Carga,107,0
+47,Descricao Alarme,Falha Célula de Carga,107,0
+48,Descricao Alarme,Falha Célula de Carga,107,0
+49,Descricao Alarme,Falha Célula de Carga,107,0
+50,Descricao Alarme,Falha Célula de Carga,107,0
+51,Descricao Alarme,Falha Célula de Carga,107,0
+52,Descricao Alarme,Falha Célula de Carga,107,0
+53,Descricao Alarme,Falha Célula de Carga,107,0
+54,Descricao Alarme,Falha Célula de Carga,107,0
+55,Descricao Alarme,Falha Célula de Carga,107,0
+56,Descricao Alarme,Falha Célula de Carga,107,0
+57,Descricao Alarme,Falha Célula de Carga,107,0
+58,Descricao Alarme,Falha Célula de Carga,107,0
+59,Descricao Alarme,Falha Célula de Carga,107,0
+60,Descricao Alarme,Falha Célula de Carga,107,0
+61,Descricao Alarme,Falha Célula de Carga,107,0
+62,Descricao Alarme,Falha Célula de Carga,107,0
+63,Descricao Alarme,Falha Célula de Carga,107,0
+64,Descricao Alarme,Falha Célula de Carga,107,0
+65,Descricao Alarme,Falha Célula de Carga,107,0
+66,Descricao Alarme,Falha Pneumática,118,0
+67,Descricao Alarme,,,
+68,Descricao Alarme,,,
+69,Descricao Alarme,Falha Célula de Carga,107,0
+70,Descricao Alarme,Falha Embreagens,112,0
+71,Descricao Alarme,Falha Embreagens,112,0
+72,Descricao Alarme,Falha Embreagens,112,0
+73,Descricao Alarme,Falha Tampas,122,0
+74,Descricao Alarme,Falha Eletrica,108,0
+75,Descricao Alarme,Falha Eletrica,108,0
+76,Descricao Alarme,Parada Segurança,126,0
+77,Descricao Alarme,Parada Segurança,126,0
+78,Descricao Alarme,Parada Segurança,126,0
+79,Descricao Alarme,Parada Segurança,126,0
+80,Descricao Alarme,Falha Nivel Tanque,116,0
+81,Descricao Alarme,Falha Eletrica,108,0
+82,Descricao Alarme,Falha Pressao Tanque,119,0
+83,Descricao Alarme,Parada Segurança,126,0
+84,Descricao Alarme,Parada Segurança,126,0
+85,Descricao Alarme,Parada Segurança,126,0
+86,Descricao Alarme,Parada Segurança,126,0
+87,Descricao Alarme,Parada Segurança,126,0
+88,Descricao Alarme,Falha Pneumática,118,0
+89,Descricao Alarme,Parada Segurança,126,0
+90,Descricao Alarme,Falha Elétrica motor,109,0
+91,Descricao Alarme,Falha Elétrica motor,109,0
+92,Descricao Alarme,Falha Elétrica motor,109,0
+93,Descricao Alarme,Falha Elétrica motor,109,0
+94,Descricao Alarme,Falha Elétrica motor,109,0
+95,Descricao Alarme,Falha Elétrica motor,109,0
+96,Descricao Alarme,Falha Processo,120,0
+97,Descricao Alarme,,,
+98,Descricao Alarme,,,
+99,Descricao Alarme,,,
+100,Descricao Alarme,,,
+101,Descricao Alarme,,,
+102,Descricao Alarme,,,
+103,Descricao Alarme,,,
+104,Descricao Alarme,,,
+105,Descricao Alarme,,,
+106,Descricao Alarme,,,
+107,Descricao Alarme,,,
+108,Descricao Alarme,,,
+109,Descricao Alarme,,,
+110,Descricao Alarme,,,
+111,Descricao Alarme,,,
+112,Descricao Alarme,,,
+113,Descricao Alarme,,,
+114,Descricao Alarme,,,
+115,Descricao Alarme,,,
+116,Descricao Alarme,,,
+117,Descricao Alarme,,,
+118,Descricao Alarme,,,
+119,Descricao Alarme,,,
+120,Descricao Alarme,,,
+121,Descricao Alarme,,,
+122,Descricao Alarme,,,
+123,Descricao Alarme,,,
+124,Descricao Alarme,,,
+125,Descricao Alarme,,,
+126,Descricao Alarme,,,
+127,Descricao Alarme,,,
+128,Descricao Alarme,,,
+129,Descricao Alarme,,,
+130,Descricao Alarme,Falta Insumo Frascos,123,0
+131,Descricao Alarme,Falta Insumo Tampas,124,0
+132,Descricao Alarme,Acumulo Saída,100,0
+133,Descricao Alarme,Falha Processo,120,0
+134,Descricao Alarme,Falha Processo,120,0
+135,Descricao Alarme,Falta Produto,125,0
+136,Descricao Alarme,Falta Produto,125,0
+137,Descricao Alarme,Falha Seguranca   gases,121,0
+138,Descricao Alarme,Falta Produto,125,0
+139,Descricao Alarme,Acumulo Saída   Transporte,103,0
+140,Descricao Alarme,Falha Processo,120,0
+141,Descricao Alarme,Falha Seguranca   gases,121,0
+142,Descricao Alarme,Falha Bandeja CIP,106,0
+143,Descricao Alarme,Falta Insumo Tampas,124,0
+144,Descricao Alarme,,,
+145,Descricao Alarme,Acumulo Saída   Mesa Rejeitos,102,0
+146,Descricao Alarme,Parada Segurança,126,0
+147,Descricao Alarme,Parada Segurança,126,0
+148,Descricao Alarme,Parada Segurança,126,0
+149,Descricao Alarme,Parada Segurança,126,0
+150,Descricao Alarme,Parada Segurança,126,0
+151,Descricao Alarme,Parada Segurança,126,0
+152,Descricao Alarme,Parada Segurança,126,0
+153,Descricao Alarme,Falha Processo,120,0
+154,Descricao Alarme,Parada Segurança,126,0
+155,Descricao Alarme,,,
+156,Descricao Alarme,,,
+157,Descricao Alarme,,,
+158,Descricao Alarme,Falha Processo,120,0
+159,Descricao Alarme,Falha Processo,120,0
+160,Descricao Alarme,Falha Processo,120,0
+161,Descricao Alarme,Falha Processo,120,0
+162,Descricao Alarme,Acumulo Saída Tranporte Desligado,101,0
+163,Descricao Alarme,Falha Célula de Carga,107,0
+164,Descricao Alarme,Falha Célula de Carga,107,0
+165,Descricao Alarme,Falha Célula de Carga,107,0
+166,Descricao Alarme,Falha Célula de Carga,107,0
+167,Descricao Alarme,Falha Célula de Carga,107,0
+168,Descricao Alarme,Falha Célula de Carga,107,0
+169,Descricao Alarme,Falha Célula de Carga,107,0
+170,Descricao Alarme,Falha Célula de Carga,107,0
+171,Descricao Alarme,Falha Célula de Carga,107,0
+172,Descricao Alarme,Falha Célula de Carga,107,0
+173,Descricao Alarme,Falha Célula de Carga,107,0
+174,Descricao Alarme,Falha Célula de Carga,107,0
+175,Descricao Alarme,Falha Célula de Carga,107,0
+176,Descricao Alarme,Falha Célula de Carga,107,0
+177,Descricao Alarme,Falha Célula de Carga,107,0
+178,Descricao Alarme,Falha Célula de Carga,107,0
+179,Descricao Alarme,Falha Célula de Carga,107,0
+180,Descricao Alarme,Falha Célula de Carga,107,0
+181,Descricao Alarme,Falha Célula de Carga,107,0
+182,Descricao Alarme,Falha Célula de Carga,107,0
+183,Descricao Alarme,Falha Célula de Carga,107,0
+184,Descricao Alarme,Acumulo Saída Varpe,105,0
+185,Descricao Alarme,Acumulo Saída Trecho 2,104,0
+255,Descricao Alarme,Falha Externa Bomba Produto,127,0
+9999,,Parada pelo Operador,999,0
+0,,Parada pelo Operador,999,0

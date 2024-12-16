@@ -1,0 +1,189 @@
+0,,Parada pelo Operador,999,0,2
+1,Relé de segurança da emergência da enchedora ativado,Parada Segurança,126,0,11
+2,Relé de segurança das portas da enchedora ativado,Parada Segurança,126,0,11
+3,Bandeja CIP deve estar recuada,Falha Bandeja CIP,106,0,11
+4,Bombona caída na entrada,Falha Entrada de Frasco,113,0,11
+5,Bombona virada na entrada,Falha Entrada de Frasco,113,0,11
+6,Falha de comunicação com transporte.,Falha Elétrica,108,0,11
+7,Botão bypass acionado,Falha Operacional,117,0,11
+8,Baixa pressão de ar comprimido na enchedora,Falha Pneumática,118,0,11
+9,Falha no inversor do transporte de entrada M1,Falha Elétrica Inversores,111,0,11
+10,Falha na leitura do encoder da esteira da máquina,Falha Elétrica Encoders,110,0,11
+11,Falha no inversor da tração principal,Falha Elétrica Inversores,111,0,11
+12,Falha no inversor dos cabeçotes rosqueadores,Falha Elétrica Inversores,111,0,11
+13,Falha no inversor do levante tanque enchedora,Falha Elétrica Inversores,111,0,11
+14,Falha no inversor do levante do rosqueador,Falha Elétrica Inversores,111,0,11
+15,Tempo máximo bomba de graxa ligado,Falha Lubrifica  o,114,0,11
+16,Falha no inversor do transporte de tampas,Falha Elétrica Inversores,111,0,11
+17,Falha no inversor do transporte de saída,Falha Elétrica Inversores,111,0,11
+18,Falha no inversor do transporte máquina,Falha Elétrica Inversores,111,0,11
+19,Emergência do transporte acionada!,Parada Segurança,126,0,11
+20,Emergência do alimentador de tampas - talisca,Parada Segurança,126,0,11
+21,Falha no inversor alimentador de tampas,Falha Elétrica Inversores,111,0,11
+22,Falha no inversor levante alimentador de tampas,Falha Elétrica Inversores,111,0,11
+23,Peso alto sobre a célula de carga 1,Falha Célula de Carga,107,0,11
+24,Peso alto sobre a célula de carga 2,Falha Célula de Carga,107,0,11
+25,Peso alto sobre a célula de carga 3,Falha Célula de Carga,107,0,11
+26,Peso alto sobre a célula de carga 4,Falha Célula de Carga,107,0,11
+27,Peso alto sobre a célula de carga 5,Falha Célula de Carga,107,0,11
+28,Peso alto sobre a célula de carga 6,Falha Célula de Carga,107,0,11
+29,Peso alto sobre a célula de carga 7,Falha Célula de Carga,107,0,11
+30,Peso alto sobre a célula de carga 8,Falha Célula de Carga,107,0,11
+31,Peso alto sobre a célula de carga 9,Falha Célula de Carga,107,0,11
+32,Peso alto sobre a célula de carga 10,Falha Célula de Carga,107,0,11
+33,Peso alto sobre a célula de carga 11,Falha Célula de Carga,107,0,11
+34,Peso alto sobre a célula de carga 12,Falha Célula de Carga,107,0,11
+35,Peso alto sobre a célula de carga 13,Falha Célula de Carga,107,0,11
+36,Peso alto sobre a célula de carga 14,Falha Célula de Carga,107,0,11
+37,Peso alto sobre a célula de carga 15,Falha Célula de Carga,107,0,11
+38,Peso alto sobre a célula de carga 16,Falha Célula de Carga,107,0,11
+39,Peso alto sobre a célula de carga 17,Falha Célula de Carga,107,0,11
+40,Peso alto sobre a célula de carga 18,Falha Célula de Carga,107,0,11
+41,Peso alto sobre a célula de carga 19,Falha Célula de Carga,107,0,11
+42,Peso alto sobre a célula de carga 20,Falha Célula de Carga,107,0,11
+43,Pressão baixa de nitrogênio,Falha N2,115,0,11
+44,Vazão baixa de nitrogênio,Falha N2,115,0,11
+45,Falha no inversor alimentador de tampas - talisca,Falha Elétrica Inversores,111,0,11
+46,Falha no controlador célula de carga 1,Falha Célula de Carga,107,0,11
+47,Falha no controlador célula de carga 2,Falha Célula de Carga,107,0,11
+48,Falha no controlador célula de carga 3,Falha Célula de Carga,107,0,11
+49,Falha no controlador célula de carga 4,Falha Célula de Carga,107,0,11
+50,Falha no controlador célula de carga 5,Falha Célula de Carga,107,0,11
+51,Falha no controlador célula de carga 6,Falha Célula de Carga,107,0,11
+52,Falha no controlador célula de carga 7,Falha Célula de Carga,107,0,11
+53,Falha no controlador célula de carga 8,Falha Célula de Carga,107,0,11
+54,Falha no controlador célula de carga 9,Falha Célula de Carga,107,0,11
+55,Falha no controlador célula de carga 10,Falha Célula de Carga,107,0,11
+56,Falha no controlador célula de carga 11,Falha Célula de Carga,107,0,11
+57,Falha no controlador célula de carga 12,Falha Célula de Carga,107,0,11
+58,Falha no controlador célula de carga 13,Falha Célula de Carga,107,0,11
+59,Falha no controlador célula de carga 14,Falha Célula de Carga,107,0,11
+60,Falha no controlador célula de carga 15,Falha Célula de Carga,107,0,11
+61,Falha no controlador célula de carga 16,Falha Célula de Carga,107,0,11
+62,Falha no controlador célula de carga 17,Falha Célula de Carga,107,0,11
+63,Falha no controlador célula de carga 18,Falha Célula de Carga,107,0,11
+64,Falha no controlador célula de carga 19,Falha Célula de Carga,107,0,11
+65,Falha no controlador célula de carga 20,Falha Célula de Carga,107,0,11
+66,Baixa pressão de ar comprimido no alimentador de tampas,Falha Pneumática,118,0,11
+67,A067 -,,,,11
+68,A068 -,,,,11
+69,Alarme de falha ao carregar receita nos controladores das células de carga,Falha Célula de Carga,107,0,11
+70,Alarme de sistema de embreagem estrela entrada,Falha Embreagens,112,0,11
+71,Alarme de sistema de embreagem estrela transferencia,Falha Embreagens,112,0,11
+72,Alarme de sistema de embreagem estrela saída,Falha Embreagens,112,0,11
+73,Alarme de falha na liberação de tampas,Falha Tampas,122,0,11
+74,Alarme de falha de comunicação com o módulo ethernet do tanque da enchedora A6404B1,Falha Eletrica,108,0,11
+75,Falha leitura sensor tacometro,Falha Eletrica,108,0,11
+76,Porta frontal aberta,Parada Segurança,126,0,11
+77,Porta direita aberta,Parada Segurança,126,0,11
+78,Porta esquerda aberta,Parada Segurança,126,0,11
+79,Porta trazeira aberta,Parada Segurança,126,0,11
+80,Nível alto no tanque da enchedora,Falha Nivel Tanque,116,0,11
+81,Falha bomba de processo da fábrica,Falha Eletrica,108,0,11
+82,Pressão alta no tanque de produto,Falha Pressao Tanque,119,0,11
+83,Alarme de emergência QCE1,Parada Segurança,126,0,11
+84,Alarme de emergência QCE2,Parada Segurança,126,0,11
+85,Alarme de emergência QCE3,Parada Segurança,126,0,11
+86,Alarme de emergência jog frontal,Parada Segurança,126,0,11
+87,Alarme de emergência jog fundo,Parada Segurança,126,0,11
+88,Alarme de pressão baixa de ar comprimido no rejeito de frascos,Falha Pneumática,118,0,11
+89,Emergencia Pressionada na Linha - Transporte,Parada Segurança,126,0,11
+90,Termostato motor enchedora,Falha Elétrica motor,109,0,11
+91,Termostato motor rosqueador,Falha Elétrica motor,109,0,11
+92,Termostato motor tampador,Falha Elétrica motor,109,0,11
+93,Termostato motor esteira tampas,Falha Elétrica motor,109,0,11
+94,Termostato motor tolva rotativa tampas,Falha Elétrica motor,109,0,11
+95,Termostato motor levante tampas,Falha Elétrica motor,109,0,11
+96,Frasco Sem Espaço Minimo na Saida da Maquina,Falha Processo,120,0,11
+97,A097 -,,,,11
+98,A098 -,,,,11
+99,A099 -,,,,11
+100,A100 -,,,,11
+101,A101 -,,,,11
+102,A102 -,,,,11
+103,A103 -,,,,11
+104,A104 -,,,,11
+105,A105 -,,,,11
+106,A106 -,,,,11
+107,A107 -,,,,11
+108,A108 -,,,,11
+109,A109 -,,,,11
+110,A110 -,,,,11
+111,A111 -,,,,11
+112,A112 -,,,,11
+113,A113 -,,,,11
+114,A114 -,,,,11
+115,A115 -,,,,11
+116,A116 -,,,,11
+117,A117 -,,,,11
+118,A118 -,,,,11
+119,A119 -,,,,11
+120,A120 -,,,,11
+121,A121 -,,,,11
+122,A122 -,,,,11
+123,A123 -,,,,11
+124,A124 -,,,,11
+125,A125 -,,,,11
+126,A126 -,,,,11
+127,A127 -,,,,11
+128,A128 -,,,,11
+129,A129 -,,,,11
+130,Falta bombona na entrada da máquina,Falta Insumo Frascos,123,0,11
+131,Falta tampas na esteira,Falta Insumo Tampas,124,0,11
+132,Acúmulo de bombona na saída,Acumulo Saída,100,0,11
+133,Soltar fixadores levante rosqueador,Falha Processo,120,0,11
+134,Prender fixadores levante rosqueador,Falha Processo,120,0,11
+135,Nivel mínimo de produto no tanque reduz velocidade,Falta Produto,125,0,11
+136,Nível crítico no tanque de produto atingido,Falta Produto,125,0,11
+137,Nível alto de gases no interior da máquina,Falha Seguranca   gases,121,0,11
+138,Esperando atingir nível de produto programado,Falta Produto,125,0,11
+139,Transporte após enchedora desligado!,Acumulo Saída   Transporte,103,0,11
+140,Nivel Alto Tanque,Falha Processo,120,0,11
+141,Sensor Nivel Alto LSH,Falha Seguranca   gases,121,0,11
+142,Falha no acionamento da bandeja de CIP,Falha Bandeja CIP,106,0,11
+143,Falta tampa no silo,Falta Insumo Tampas,124,0,11
+144,Referenciar máquina,,,,11
+145,Acúmulo de bombona na mesa de rejeitos,Acumulo Saída   Mesa Rejeitos,102,0,11
+146,Solicitação abertura porta frontal ativada,Parada Segurança,126,0,11
+147,Abertura porta frontal autorizada,Parada Segurança,126,0,11
+148,Solicitação abertura porta direita ativada,Parada Segurança,126,0,11
+149,Abertura porta direita autorizada,Parada Segurança,126,0,11
+150,Solicitação abertura porta trazeira ativada,Parada Segurança,126,0,11
+151,Abertura porta trazeira autorizada,Parada Segurança,126,0,11
+152,Solicitação abertura porta esquerda ativada,Parada Segurança,126,0,11
+153,Válvula de entrada de água fechada AV-152 (TQ-04),Falha Processo,120,0,11
+154,Abertura porta esquerda autorizada,Parada Segurança,126,0,11
+155,M026 -,,,,11
+156,M027 -,,,,11
+157,M028 -,,,,11
+158,Altura do tanque da enchedora não está conforme programado na receita,Falha Processo,120,0,11
+159,Altura do rosqueador não está conforme programado na receita,Falha Processo,120,0,11
+160,Altura do alimentador de tampas não está conforme programado na receita,Falha Processo,120,0,11
+161,Levante habilitado, desabilitar para máquina em automático,Falha Processo,120,0,11
+162,Aguardando partida transporte de saída,Acumulo Saída Tranporte Desligado,101,0,11
+163,Correção inflight desabilitado por nível baixo de produto no tanque,Falha Célula de Carga,107,0,11
+164,Não carregou receita na célula de carga 1,Falha Célula de Carga,107,0,11
+165,Não carregou receita na célula de carga 2,Falha Célula de Carga,107,0,11
+166,Não carregou receita na célula de carga 3,Falha Célula de Carga,107,0,11
+167,Não carregou receita na célula de carga 4,Falha Célula de Carga,107,0,11
+168,Não carregou receita na célula de carga 5,Falha Célula de Carga,107,0,11
+169,Não carregou receita na célula de carga 6,Falha Célula de Carga,107,0,11
+170,Não carregou receita na célula de carga 7,Falha Célula de Carga,107,0,11
+171,Não carregou receita na célula de carga 8,Falha Célula de Carga,107,0,11
+172,Não carregou receita na célula de carga 9,Falha Célula de Carga,107,0,11
+173,Não carregou receita na célula de carga 10,Falha Célula de Carga,107,0,11
+174,Não carregou receita na célula de carga 11,Falha Célula de Carga,107,0,11
+175,Não carregou receita na célula de carga 12,Falha Célula de Carga,107,0,11
+176,Não carregou receita na célula de carga 13,Falha Célula de Carga,107,0,11
+177,Não carregou receita na célula de carga 14,Falha Célula de Carga,107,0,11
+178,Não carregou receita na célula de carga 15,Falha Célula de Carga,107,0,11
+179,Não carregou receita na célula de carga 16,Falha Célula de Carga,107,0,11
+180,Não carregou receita na célula de carga 17,Falha Célula de Carga,107,0,11
+181,Não carregou receita na célula de carga 18,Falha Célula de Carga,107,0,11
+182,Não carregou receita na célula de carga 19,Falha Célula de Carga,107,0,11
+183,Não carregou receita na célula de carga 20,Falha Célula de Carga,107,0,11
+184,Acumulo na Entrada da Varpe,Acumulo Saída Varpe,105,0,11
+185,Transporte Saida (Trecho 2) Não Partido,Acumulo Saída Trecho 2,104,0,11
+255,Falha Externa Bomba de Produto,Falha Externa Bomba Produto,127,0,11
+9999,,Parada pelo Operador,999,0,2
+0,,Parada pelo Operador,999,0,2

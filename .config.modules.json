@@ -1,0 +1,9 @@
+{
+    "line-reader": {
+        "spec": "line-reader",
+        "module": "line-reader",
+        "subpath": "",
+        "builtin": false,
+        "known": false
+    }
+}

@@ -1,0 +1,255 @@
+{
+    "config": {
+        "machine_name": "aplicadora",
+        "factory": 1,
+        "machine_id": 8,
+        "token_machine": "Bearer 157f7feab53e32be5a51f9837a3f4f97326377e0",
+        "token_line": "Bearer 00bc757a398cc98d299fd6fc2119929c48647db9",
+        "url": "http://127.0.0.1:3003",
+        "url_machine": "http://127.0.0.1:3003/machine_events",
+        "url_line": "http://127.0.0.1:3003/production_line_events",
+        "send": true
+    },
+    "stopreasons": {
+        "id": 8,
+        "name": "Aplicadora de Rotulos",
+        "stopReasons": [
+            [
+                "501",
+                "Manutencao Corretiva",
+                false
+            ],
+            [
+                "502",
+                "Manutencao Preditiva",
+                false
+            ],
+            [
+                "503",
+                "Falta de Produto",
+                false
+            ],
+            [
+                "504",
+                "Ajuste Maquina",
+                false
+            ]
+        ]
+    },
+    "sm_atual": {
+        "state": 2,
+        "mode": 2
+    },
+    "sm_anterior": {
+        "state": 2,
+        "mode": 2
+    },
+    "parada": {
+        "aux_id_falha": null,
+        "hora": 1734343201345,
+        "state": 2,
+        "mode": 2,
+        "active": true,
+        "statechanged_id": 0,
+        "statechanged_reason": "",
+        "programada": false,
+        "justifica": false,
+        "tParadaAtual": 98.37235000000001
+    },
+    "sumProg_NProgr": [
+        {
+            "soma_programada": 0,
+            "soma_nao_programada": 98.37235000000001
+        }
+    ],
+    "memo_turno": 2,
+    "tempoTranscorrido": 98.37811666666667,
+    "calculoOEE": {
+        "machine_event": {
+            "timestamp(1i)": "2024",
+            "timestamp(2i)": "12",
+            "timestamp(3i)": "16",
+            "timestamp(4i)": "8",
+            "timestamp(5i)": "38",
+            "timestamp(6i)": "23",
+            "event_type_id": 6,
+            "payload": {
+                "statusMachine": "Parada",
+                "statusConexao": true,
+                "mode": 2,
+                "state": 2,
+                "rNominalSpeed": 40,
+                "rSetSpeed": null,
+                "rActualSpeed": 0,
+                "strRecipeName": "pallet de 3 camadas",
+                "strBottle": "undefined",
+                "strCap": "undefined",
+                "diProductionCounter": 0,
+                "diCounterReject_r1": 0,
+                "diCounterReject_r2": 0,
+                "iActualRecipe": 3,
+                "tempoTranscorrido": 98.38,
+                "percDisp": 0.02,
+                "teste": {
+                    "tProducao": 0.022449999999992087,
+                    "tempoTranscorrido": 98.37811666666667,
+                    "tProg": 0,
+                    "tNProg": 98.35566666666668
+                },
+                "percEfic": 0,
+                "percQual": 0,
+                "percOEE": 0,
+                "turno": 2,
+                "tempoParadaProgramada": 0,
+                "tempoParadaNaoProgramada": 98.36,
+                "dimetaProduzidos": 100000,
+                "rmetaPerf": 95,
+                "rmetaDisp": 90,
+                "rmetaQual": 99,
+                "rmetaOEE": 90,
+                "equip": "aplicadora"
+            }
+        }
+    },
+    "sm_anterior_iot": {
+        "state": 2,
+        "mode": 2
+    },
+    "ignora_registro_maquina": 0,
+    "lastState": [
+        {
+            "id": 13571,
+            "timestamp": "2024-12-16T09:44:55.501Z",
+            "id_machine": 8,
+            "payload": {
+                "machine_event": {
+                    "timestamp(1i)": "2024",
+                    "timestamp(2i)": "12",
+                    "timestamp(3i)": "16",
+                    "timestamp(4i)": "6",
+                    "timestamp(5i)": "44",
+                    "timestamp(6i)": "55",
+                    "event_type_id": 6,
+                    "payload": {
+                        "statusMachine": "Parada",
+                        "statusConexao": true,
+                        "mode": 2,
+                        "state": 2,
+                        "rNominalSpeed": 40,
+                        "rSetSpeed": null,
+                        "rActualSpeed": 0,
+                        "strRecipeName": "pallet de 3 camadas",
+                        "strBottle": "undefined",
+                        "strCap": "undefined",
+                        "diProductionCounter": 0,
+                        "diCounterReject_r1": 0,
+                        "diCounterReject_r2": 0,
+                        "iActualRecipe": 3,
+                        "tempoTranscorrido": 394.91,
+                        "percDisp": 0.01,
+                        "teste": {
+                            "tProducao": 0.028383333333351857,
+                            "tempoTranscorrido": 394.90611666666666,
+                            "tProg": 0,
+                            "tNProg": 394.8777333333333
+                        },
+                        "percEfic": 0,
+                        "percQual": 0,
+                        "percOEE": 0,
+                        "turno": 1,
+                        "tempoParadaProgramada": 0,
+                        "tempoParadaNaoProgramada": 394.88,
+                        "dimetaProduzidos": 100000,
+                        "rmetaPerf": 95,
+                        "rmetaDisp": 90,
+                        "rmetaQual": 99,
+                        "rmetaOEE": 90,
+                        "equip": "aplicadora"
+                    }
+                }
+            }
+        },
+        98.37811666666667
+    ],
+    "sumProg_NProgr_parcial": [
+        {
+            "soma_programada": 0,
+            "soma_nao_programada": 0
+        }
+    ],
+    "temposOEE_parcial": {
+        "omac": {},
+        "somas": {
+            "totalProductive": 0,
+            "totalNonProductive": 0
+        }
+    },
+    "ignora_registro_linha": 20,
+    "paradasSoma": {
+        "Prog": 0,
+        "Nprog": 0
+    },
+    "paradaOEE": {
+        "aux_id_falha": null,
+        "InicioParada": 1734318601702,
+        "FimParada": 1734343201344,
+        "tParada": 409.99,
+        "ID": 0,
+        "Reason": "",
+        "ModeReason": 2,
+        "StateReason": 2,
+        "Programada": false,
+        "turno_atual": 2,
+        "equip": "aplicadora",
+        "machine_id": 8
+    },
+    "fimTurnoOEE": {
+        "machine_event": {
+            "timestamp(1i)": "2024",
+            "timestamp(2i)": "12",
+            "timestamp(3i)": "16",
+            "timestamp(4i)": "7",
+            "timestamp(5i)": "0",
+            "timestamp(6i)": "1",
+            "event_type_id": 3,
+            "payload": {
+                "statusMachine": "Parada",
+                "statusConexao": true,
+                "mode": 2,
+                "state": 2,
+                "rNominalSpeed": 40,
+                "rSetSpeed": null,
+                "rActualSpeed": 0,
+                "strRecipeName": "pallet de 3 camadas",
+                "strBottle": "undefined",
+                "strCap": "undefined",
+                "diProductionCounter": 0,
+                "diCounterReject_r1": 0,
+                "diCounterReject_r2": 0,
+                "iActualRecipe": 3,
+                "tempoTranscorrido": 409.99,
+                "percDisp": 0,
+                "teste": {
+                    "tProducao": 0.011700000000075761,
+                    "tempoTranscorrido": 409.9890666666667,
+                    "tProg": 0,
+                    "tNProg": 409.9773666666666
+                },
+                "percEfic": 0,
+                "percQual": 0,
+                "percOEE": 0,
+                "turno": 2,
+                "tempoParadaProgramada": 0,
+                "tempoParadaNaoProgramada": 409.98,
+                "dimetaProduzidos": 100000,
+                "rmetaPerf": 95,
+                "rmetaDisp": 90,
+                "rmetaQual": 99,
+                "rmetaOEE": 90,
+                "equip": "aplicadora",
+                "statusMachineId": 2
+            }
+        }
+    },
+    "cmdResetAtivo": true
+}

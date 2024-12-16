@@ -1,0 +1,40 @@
+{
+    "config": {
+        "machine_name": "enchedora",
+        "factory": 1,
+        "token_line": "Bearer 00bc757a398cc98d299fd6fc2119929c48647db9",
+        "url": "http://127.0.0.1:3003",
+        "url_machine": "http://127.0.0.1:3003/machine_events",
+        "url_line": "http://127.0.0.1:3003/production_line_events",
+        "send": true
+    },
+    "turnos_times": [
+        {
+            "id": 1,
+            "production_line_id": 1,
+            "start_time": "2000-01-01T02:10:00.000Z",
+            "end_time": "2000-01-01T09:00:00.000Z",
+            "created_at": "2024-11-08T16:10:27.058Z",
+            "updated_at": "2024-11-11T13:24:25.285Z",
+            "number": 1
+        },
+        {
+            "id": 8,
+            "production_line_id": 1,
+            "start_time": "2000-01-01T09:00:00.000Z",
+            "end_time": "2000-01-01T19:00:00.000Z",
+            "created_at": "2024-11-29T15:11:24.640Z",
+            "updated_at": "2024-12-04T17:57:32.201Z",
+            "number": 2
+        },
+        {
+            "id": 11,
+            "production_line_id": 1,
+            "start_time": "2000-01-01T19:00:00.000Z",
+            "end_time": "2000-01-01T02:10:00.000Z",
+            "created_at": "2024-11-29T15:44:20.169Z",
+            "updated_at": "2024-12-04T17:57:59.045Z",
+            "number": 3
+        }
+    ]
+}
