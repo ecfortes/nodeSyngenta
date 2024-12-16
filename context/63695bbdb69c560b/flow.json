@@ -54,24 +54,24 @@
         "statechanged_reason": "",
         "programada": false,
         "justifica": false,
-        "tParadaAtual": 98.37235000000001
+        "tParadaAtual": 503.00656666666663
     },
     "sumProg_NProgr": [
         {
             "soma_programada": 0,
-            "soma_nao_programada": 98.37235000000001
+            "soma_nao_programada": 503.00656666666663
         }
     ],
     "memo_turno": 2,
-    "tempoTranscorrido": 98.37811666666667,
+    "tempoTranscorrido": 503.0122333333333,
     "calculoOEE": {
         "machine_event": {
             "timestamp(1i)": "2024",
             "timestamp(2i)": "12",
             "timestamp(3i)": "16",
-            "timestamp(4i)": "8",
-            "timestamp(5i)": "38",
-            "timestamp(6i)": "23",
+            "timestamp(4i)": "15",
+            "timestamp(5i)": "23",
+            "timestamp(6i)": "1",
             "event_type_id": 6,
             "payload": {
                 "statusMachine": "Parada",
@@ -88,20 +88,20 @@
                 "diCounterReject_r1": 0,
                 "diCounterReject_r2": 0,
                 "iActualRecipe": 3,
-                "tempoTranscorrido": 98.38,
-                "percDisp": 0.02,
+                "tempoTranscorrido": 503.01,
+                "percDisp": 0,
                 "teste": {
-                    "tProducao": 0.022449999999992087,
-                    "tempoTranscorrido": 98.37811666666667,
+                    "tProducao": 0.02241666666668607,
+                    "tempoTranscorrido": 503.0122333333333,
                     "tProg": 0,
-                    "tNProg": 98.35566666666668
+                    "tNProg": 502.9898166666666
                 },
                 "percEfic": 0,
                 "percQual": 0,
                 "percOEE": 0,
                 "turno": 2,
                 "tempoParadaProgramada": 0,
-                "tempoParadaNaoProgramada": 98.36,
+                "tempoParadaNaoProgramada": 502.99,
                 "dimetaProduzidos": 100000,
                 "rmetaPerf": 95,
                 "rmetaDisp": 90,
@@ -118,17 +118,17 @@
     "ignora_registro_maquina": 0,
     "lastState": [
         {
-            "id": 13571,
-            "timestamp": "2024-12-16T09:44:55.501Z",
+            "id": 14222,
+            "timestamp": "2024-12-16T18:17:11.330Z",
             "id_machine": 8,
             "payload": {
                 "machine_event": {
                     "timestamp(1i)": "2024",
                     "timestamp(2i)": "12",
                     "timestamp(3i)": "16",
-                    "timestamp(4i)": "6",
-                    "timestamp(5i)": "44",
-                    "timestamp(6i)": "55",
+                    "timestamp(4i)": "15",
+                    "timestamp(5i)": "17",
+                    "timestamp(6i)": "11",
                     "event_type_id": 6,
                     "payload": {
                         "statusMachine": "Parada",
@@ -145,20 +145,20 @@
                         "diCounterReject_r1": 0,
                         "diCounterReject_r2": 0,
                         "iActualRecipe": 3,
-                        "tempoTranscorrido": 394.91,
+                        "tempoTranscorrido": 497.19,
                         "percDisp": 0.01,
                         "teste": {
-                            "tProducao": 0.028383333333351857,
-                            "tempoTranscorrido": 394.90611666666666,
+                            "tProducao": 0.038833333333286646,
+                            "tempoTranscorrido": 497.18771666666663,
                             "tProg": 0,
-                            "tNProg": 394.8777333333333
+                            "tNProg": 497.14888333333334
                         },
                         "percEfic": 0,
                         "percQual": 0,
                         "percOEE": 0,
-                        "turno": 1,
+                        "turno": 2,
                         "tempoParadaProgramada": 0,
-                        "tempoParadaNaoProgramada": 394.88,
+                        "tempoParadaNaoProgramada": 497.15,
                         "dimetaProduzidos": 100000,
                         "rmetaPerf": 95,
                         "rmetaDisp": 90,
@@ -169,7 +169,7 @@
                 }
             }
         },
-        98.37811666666667
+        5.833333333333333
     ],
     "sumProg_NProgr_parcial": [
         {
@@ -178,10 +178,15 @@
         }
     ],
     "temposOEE_parcial": {
-        "omac": {},
+        "omac": {
+            "2": {
+                "2": 8.303371133333334,
+                "9": 5.6915754
+            }
+        },
         "somas": {
             "totalProductive": 0,
-            "totalNonProductive": 0
+            "totalNonProductive": 13.994946533333334
         }
     },
     "ignora_registro_linha": 20,

@@ -13,17 +13,17 @@
     },
     "lastState": [
         {
-            "id": 13624,
-            "timestamp": "2024-12-16T11:37:56.672Z",
+            "id": 14230,
+            "timestamp": "2024-12-16T18:21:54.588Z",
             "id_machine": 2,
             "payload": {
                 "machine_event": {
                     "timestamp(1i)": "2024",
                     "timestamp(2i)": "12",
                     "timestamp(3i)": "16",
-                    "timestamp(4i)": "8",
-                    "timestamp(5i)": "37",
-                    "timestamp(6i)": "56",
+                    "timestamp(4i)": "15",
+                    "timestamp(5i)": "21",
+                    "timestamp(6i)": "54",
                     "event_type_id": 6,
                     "payload": {
                         "statusMachine": "Parada",
@@ -40,20 +40,20 @@
                         "diCounterReject_r1": 0,
                         "diCounterReject_r2": 0,
                         "iActualRecipe": 2,
-                        "tempoTranscorrido": 97.93,
-                        "percDisp": 97.88,
+                        "tempoTranscorrido": 501.89,
+                        "percDisp": 74.83,
                         "teste": {
-                            "tProducao": 95.8468,
-                            "tempoTranscorrido": 97.9268,
+                            "tProducao": 375.57073333333335,
+                            "tempoTranscorrido": 501.89073333333334,
                             "tProg": 0,
-                            "tNProg": 2.08
+                            "tNProg": 126.32
                         },
-                        "percEfic": 100,
+                        "percEfic": 38.34,
                         "percQual": 100,
-                        "percOEE": 100,
+                        "percOEE": 28.69,
                         "turno": 2,
                         "tempoParadaProgramada": 0,
-                        "tempoParadaNaoProgramada": 2.08,
+                        "tempoParadaNaoProgramada": 126.32,
                         "dimetaProduzidos": 100000,
                         "rmetaPerf": 95,
                         "rmetaDisp": 90,
@@ -64,7 +64,7 @@
                 }
             }
         },
-        0.45
+        1.1166666666666667
     ],
     "sm_atual": {
         "state": 5,
@@ -76,7 +76,7 @@
     },
     "parada": {
         "aux_id_falha": 84,
-        "hora": 1734349075607,
+        "hora": 1734373313442,
         "state": 5,
         "mode": 2,
         "active": true,
@@ -84,13 +84,13 @@
         "statechanged_reason": "Parada Segurança",
         "programada": false,
         "justifica": false,
-        "tParadaAtual": 0.46798333333333336
+        "tParadaAtual": 1.13825
     },
     "ignora_registro_linha": 20,
     "ignora_registro_maquina": 0,
     "paradasSoma": {
         "Prog": 0,
-        "Nprog": 2.0735333333333332
+        "Nprog": 126.30649999999999
     },
     "stopreasons": {
         "id": 2,
@@ -119,23 +119,24 @@
         ]
     },
     "memo_turno": 2,
-    "tempoTranscorrido": 98.37811666666667,
+    "tempoTranscorrido": 503.0122333333333,
     "sumProg_NProgr_parcial": [
         {
             "soma_programada": 0,
-            "soma_nao_programada": 2.08
+            "soma_nao_programada": 126.32
         }
     ],
     "temposOEE_parcial": {
         "omac": {
             "2": {
-                "5": 1.75138155,
-                "6": 17.5504827
+                "2": 7.971034683333333,
+                "5": 47.061266333333336,
+                "6": 117.69717658333333
             }
         },
         "somas": {
-            "totalProductive": 17.5504827,
-            "totalNonProductive": 1.75138155
+            "totalProductive": 117.69717658333333,
+            "totalNonProductive": 55.03230101666667
         }
     },
     "calculoOEE": {
@@ -143,9 +144,9 @@
             "timestamp(1i)": "2024",
             "timestamp(2i)": "12",
             "timestamp(3i)": "16",
-            "timestamp(4i)": "8",
-            "timestamp(5i)": "38",
-            "timestamp(6i)": "23",
+            "timestamp(4i)": "15",
+            "timestamp(5i)": "23",
+            "timestamp(6i)": "1",
             "event_type_id": 6,
             "payload": {
                 "statusMachine": "Parada",
@@ -162,20 +163,20 @@
                 "diCounterReject_r1": 0,
                 "diCounterReject_r2": 0,
                 "iActualRecipe": 2,
-                "tempoTranscorrido": 98.38,
-                "percDisp": 97.43,
+                "tempoTranscorrido": 503.01,
+                "percDisp": 74.66,
                 "teste": {
-                    "tProducao": 95.8468,
-                    "tempoTranscorrido": 98.37811666666667,
+                    "tProducao": 375.57075,
+                    "tempoTranscorrido": 503.0122333333333,
                     "tProg": 0,
-                    "tNProg": 2.5313166666666667
+                    "tNProg": 127.44148333333332
                 },
-                "percEfic": 100,
+                "percEfic": 38.34,
                 "percQual": 100,
-                "percOEE": 100,
+                "percOEE": 28.62,
                 "turno": 2,
                 "tempoParadaProgramada": 0,
-                "tempoParadaNaoProgramada": 2.53,
+                "tempoParadaNaoProgramada": 127.44,
                 "dimetaProduzidos": 100000,
                 "rmetaPerf": 95,
                 "rmetaDisp": 90,
@@ -192,18 +193,18 @@
     "sumProg_NProgr": [
         {
             "soma_programada": 0,
-            "soma_nao_programada": 2.5479833333333333
+            "soma_nao_programada": 127.45824999999999
         }
     ],
     "paradaOEE": {
-        "aux_id_falha": 84,
-        "InicioParada": 1734348699419,
-        "FimParada": 1734348739489,
-        "tParada": 0.67,
-        "ID": 126,
-        "Reason": "Parada Segurança",
+        "aux_id_falha": 9999,
+        "InicioParada": 1734373050386,
+        "FimParada": 1734373051386,
+        "tParada": 0.02,
+        "ID": 999,
+        "Reason": "Parada pelo Operador",
         "ModeReason": 2,
-        "StateReason": 5,
+        "StateReason": 2,
         "Programada": false,
         "turno_atual": 2,
         "equip": "envolvedora",

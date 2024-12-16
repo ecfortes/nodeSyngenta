@@ -54,24 +54,24 @@
         "statechanged_reason": "Parada pelo Operador",
         "programada": false,
         "justifica": false,
-        "tParadaAtual": 98.36666666666667
+        "tParadaAtual": 503.00808333333333
     },
     "sumProg_NProgr": [
         {
             "soma_programada": 0,
-            "soma_nao_programada": 98.36666666666667
+            "soma_nao_programada": 503.00808333333333
         }
     ],
     "memo_turno": 2,
-    "tempoTranscorrido": 98.37811666666667,
+    "tempoTranscorrido": 503.0122333333333,
     "calculoOEE": {
         "machine_event": {
             "timestamp(1i)": "2024",
             "timestamp(2i)": "12",
             "timestamp(3i)": "16",
-            "timestamp(4i)": "8",
-            "timestamp(5i)": "38",
-            "timestamp(6i)": "23",
+            "timestamp(4i)": "15",
+            "timestamp(5i)": "23",
+            "timestamp(6i)": "1",
             "event_type_id": 6,
             "payload": {
                 "statusMachine": "Parada",
@@ -88,20 +88,20 @@
                 "diCounterReject_r1": 0,
                 "diCounterReject_r2": 0,
                 "iActualRecipe": 1,
-                "tempoTranscorrido": 98.38,
-                "percDisp": 0.03,
+                "tempoTranscorrido": 503.01,
+                "percDisp": 0,
                 "teste": {
-                    "tProducao": 0.028183333333331007,
-                    "tempoTranscorrido": 98.37811666666667,
+                    "tProducao": 0.020916666666664696,
+                    "tempoTranscorrido": 503.0122333333333,
                     "tProg": 0,
-                    "tNProg": 98.34993333333334
+                    "tNProg": 502.99131666666665
                 },
                 "percEfic": null,
                 "percQual": 0,
                 "percOEE": null,
                 "turno": 2,
                 "tempoParadaProgramada": 0,
-                "tempoParadaNaoProgramada": 98.35,
+                "tempoParadaNaoProgramada": 502.99,
                 "dimetaProduzidos": 100000,
                 "rmetaPerf": 95,
                 "rmetaDisp": 90,
@@ -175,7 +175,7 @@
                 }
             }
         },
-        98.37811666666667
+        503.0122333333333
     ],
     "temposOEE_parcial": {
         "omac": {},
