@@ -64,7 +64,7 @@
                 }
             }
         },
-        5.05
+        7.55
     ],
     "sm_atual": {
         "state": 6,
@@ -76,24 +76,24 @@
     },
     "paradasSoma": {
         "Prog": 0,
-        "Nprog": 82.44788333333344
+        "Nprog": 82.48150000000011
     },
     "memo_turno": 2,
     "sumProg_NProgr_parcial": [
         {
             "soma_programada": 0,
-            "soma_nao_programada": 82.62
+            "soma_nao_programada": 82.64
         }
     ],
-    "tempoTranscorrido": 503.5149166666667,
+    "tempoTranscorrido": 506.0260333333334,
     "calculoOEE": {
         "machine_event": {
             "timestamp(1i)": "2024",
             "timestamp(2i)": "12",
             "timestamp(3i)": "16",
             "timestamp(4i)": "15",
-            "timestamp(5i)": "23",
-            "timestamp(6i)": "31",
+            "timestamp(5i)": "26",
+            "timestamp(6i)": "1",
             "event_type_id": 6,
             "payload": {
                 "statusMachine": "Rodando",
@@ -110,20 +110,20 @@
                 "diCounterReject_r1": 0,
                 "diCounterReject_r2": 0,
                 "iActualRecipe": 1,
-                "tempoTranscorrido": 503.51,
-                "percDisp": 83.59,
+                "tempoTranscorrido": 506.03,
+                "percDisp": 83.67,
                 "teste": {
-                    "tProducao": 420.8949166666667,
-                    "tempoTranscorrido": 503.5149166666667,
+                    "tProducao": 423.3860333333334,
+                    "tempoTranscorrido": 506.0260333333334,
                     "tProg": 0,
-                    "tNProg": 82.62
+                    "tNProg": 82.64
                 },
-                "percEfic": 2.14,
+                "percEfic": 2.13,
                 "percQual": 100,
-                "percOEE": 1.79,
+                "percOEE": 1.78,
                 "turno": 2,
                 "tempoParadaProgramada": 0,
-                "tempoParadaNaoProgramada": 82.62,
+                "tempoParadaNaoProgramada": 82.64,
                 "dimetaProduzidos": 100000,
                 "rmetaPerf": 95,
                 "rmetaDisp": 90,
@@ -142,18 +142,18 @@
             "2": {
                 "2": 17.55976985,
                 "5": 13.717605383333334,
-                "6": 84.27875206666667
+                "6": 86.27875206666667
             }
         },
         "somas": {
-            "totalProductive": 84.27875206666667,
+            "totalProductive": 86.27875206666667,
             "totalNonProductive": 31.27737523333333
         }
     },
-    "ignora_registro_maquina": 0,
+    "ignora_registro_maquina": 9,
     "parada": {
         "aux_id_falha": 0,
-        "hora": 1734373167842,
+        "hora": 1734373549532,
         "state": 5,
         "mode": 2,
         "active": false,
@@ -165,14 +165,14 @@
     "sumProg_NProgr": [
         {
             "soma_programada": 0,
-            "soma_nao_programada": 82.62
+            "soma_nao_programada": 82.64
         }
     ],
     "ignora_registro_linha": 20,
     "paradaOEE": {
         "aux_id_falha": 0,
-        "InicioParada": 1734373167842,
-        "FimParada": 1734373168842,
+        "InicioParada": 1734373549532,
+        "FimParada": 1734373550543,
         "tParada": 0.02,
         "ID": 999,
         "Reason": "Parada pelo Operador",

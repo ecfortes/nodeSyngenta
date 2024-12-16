@@ -4,7 +4,7 @@
         "iActualRecipe": 13,
         "strRecipeName": "MATCH 20L",
         "rNominalSpeed": 1200,
-        "rActualSpeed": 1080,
+        "rActualSpeed": 1140,
         "rSetSpeed": 1080,
         "strBottle": "",
         "strCap": "",
@@ -33,7 +33,7 @@
         "4": 0,
         "5": 0,
         "6": 0,
-        "7": 21693,
+        "7": 21734,
         "8": 0
     },
     "turnos_times": [
@@ -67,8 +67,8 @@
     ],
     "turno_1": {
         "turno": 2,
-        "tempoTranscorrido": 503.53181666666666,
-        "now": "2024-12-16T18:23:31.909Z"
+        "tempoTranscorrido": 506.0260333333334,
+        "now": "2024-12-16T18:26:01.562Z"
     },
     "turno_anterior_1": 2,
     "paradaplcenchedora": {
@@ -81,7 +81,7 @@
         "statechanged_reason": "Parada pelo Operador",
         "programada": false,
         "justifica": false,
-        "tParadaAtual": 1.4233833333333334
+        "tParadaAtual": 3.9181833333333334
     },
     "plcenvolvedora": {
         "aux_id_falha": 0,
@@ -151,7 +151,7 @@
     },
     "paradaplcrobopal": {
         "aux_id_falha": 0,
-        "hora": 1734373167842,
+        "hora": 1734373549532,
         "state": 5,
         "mode": 2,
         "active": false,
@@ -185,7 +185,7 @@
         "rActualSpeed": 10,
         "diCounterReject_r1": 0,
         "diCounterReject_r2": 0,
-        "diProductionCounter": 21693,
+        "diProductionCounter": 21734,
         "starved": true,
         "blocked": false,
         "statechanged_id": "999",
@@ -204,7 +204,7 @@
         "aplicadora": false
     },
     "plcaplicadora": {
-        "lifebit": false,
+        "lifebit": true,
         "mode": 2,
         "state": 2,
         "statechanged_id": 0,
@@ -232,7 +232,7 @@
         "statechanged_reason": "",
         "programada": false,
         "justifica": false,
-        "tParadaAtual": 503.5094
+        "tParadaAtual": 506.00418333333334
     },
     "plcemf": {
         "xResetCounter": false,
@@ -316,7 +316,7 @@
         "statechanged_reason": "Parada pelo Operador",
         "programada": false,
         "justifica": false,
-        "tParadaAtual": 503.51090000000005
+        "tParadaAtual": 506.0057
     },
     "paradaplccfe": {
         "aux_id_falha": 0,
@@ -328,7 +328,7 @@
         "statechanged_reason": "Parada pelo Operador",
         "programada": false,
         "justifica": false,
-        "tParadaAtual": 503.5094666666667
+        "tParadaAtual": 506.00425
     },
     "paradaplcgfx": {
         "aux_id_falha": 0,
@@ -340,7 +340,7 @@
         "statechanged_reason": "Parada pelo Operador",
         "programada": false,
         "justifica": false,
-        "tParadaAtual": 503.5094166666667
+        "tParadaAtual": 506.0042
     },
     "paradaplcrotuladorafrascos": {
         "aux_id_falha": 0,
@@ -364,7 +364,7 @@
         "statechanged_reason": "Parada pelo Operador",
         "programada": false,
         "justifica": false,
-        "tParadaAtual": 1.40665,
+        "tParadaAtual": 3.9014333333333338,
         "machine_id": 1,
         "machine_name": "enchedora"
     },

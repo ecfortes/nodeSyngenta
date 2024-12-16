@@ -63,15 +63,15 @@
         }
     ],
     "memo_turno": 2,
-    "tempoTranscorrido": 503.5149166666667,
+    "tempoTranscorrido": 506.0260333333334,
     "calculoOEE": {
         "machine_event": {
             "timestamp(1i)": "2024",
             "timestamp(2i)": "12",
             "timestamp(3i)": "16",
             "timestamp(4i)": "15",
-            "timestamp(5i)": "23",
-            "timestamp(6i)": "31",
+            "timestamp(5i)": "26",
+            "timestamp(6i)": "1",
             "event_type_id": 6,
             "payload": {
                 "statusMachine": "Rodando",
@@ -84,15 +84,15 @@
                 "strRecipeName": "20 Litros",
                 "strBottle": "undefined",
                 "strCap": "undefined",
-                "diProductionCounter": 21693,
+                "diProductionCounter": 21734,
                 "diCounterReject_r1": 0,
                 "diCounterReject_r2": 0,
                 "iActualRecipe": 2,
-                "tempoTranscorrido": 503.51,
-                "percDisp": 79.24,
+                "tempoTranscorrido": 506.03,
+                "percDisp": 79.34,
                 "teste": {
-                    "tProducao": 398.9949166666667,
-                    "tempoTranscorrido": 503.5149166666667,
+                    "tProducao": 401.5060333333334,
+                    "tempoTranscorrido": 506.0260333333334,
                     "tProg": 0,
                     "tNProg": 104.52
                 },
@@ -169,19 +169,19 @@
                 }
             }
         },
-        5.133333333333334
+        7.633333333333334
     ],
     "temposOEE_parcial": {
         "omac": {
             "2": {
                 "2": 37.85908445,
                 "5": 12.31040415,
-                "6": 43.15325176666666,
+                "6": 45.16991843333333,
                 "11": 0.48503395
             }
         },
         "somas": {
-            "totalProductive": 43.15325176666666,
+            "totalProductive": 45.16991843333333,
             "totalNonProductive": 50.654522549999996
         }
     },
